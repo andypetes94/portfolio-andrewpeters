@@ -22,9 +22,8 @@ The site is powered by **Quarto**, using **HTML output** with a clean, responsiv
 ## 🛠 Technology Stack
 
 - **Framework:** Quarto (HTML website)
-- **Languages:** R, Python, SQL
-- **Visualisation:** RShiny, ggplot2, Plotly, Tableau, Power BI
-- **Machine Learning:** XGBoost, Mixed Effects Modeling, Scikit-Learn
+- **Languages:** R
+- **Visualisation:** RShiny, ggplot2
 - **Design & UX:** UI/UX for analytical apps, dashboard automation
 - **Deployment:** GitHub Pages
 
