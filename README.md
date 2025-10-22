@@ -1,6 +1,6 @@
 # Andrew Peters – Personal Website
 
-Welcome to the **GitHub repository** for my personal website, built with **Quarto**. This site showcases my work as a **Data Scientist**, specializing in **data visualisation, RShiny development**, and **applied machine learning**.
+Welcome to the **GitHub repository** for my personal website, built with **Quarto**. This site showcases my work as a **Data Scientist**, specialising in **data visualisation, RShiny development**, and **applied machine learning**.
 
 Website: [https://andypeters.github.io](https://andypetes94)
 
