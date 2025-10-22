@@ -23,7 +23,7 @@ website:
         text: About
     right: 
       - icon: github  # Font Awesome icon for GitHub
-        href: "https://github.com/andypetes94"
+        href: "https://github.com/andypetes94/portfolio-andrewpeters"
         target: "_blank"
   search: true
 

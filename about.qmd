@@ -7,7 +7,7 @@ about:
       icon: linkedin
       target: _blank
     - text: GitHub
-      href: https://github.com/andypetes94
+      href: https://github.com/andypetes94/portfolio-andrewpeters
       icon: github
       target: _blank 
     - text: Email
