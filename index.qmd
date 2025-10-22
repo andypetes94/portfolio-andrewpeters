@@ -1,0 +1,49 @@
+---
+title: "Home"
+---
+
+
+<div style="width: 300px; height: 300px; border-radius: 50%; margin: auto; overflow: hidden;">
+  <img src="images/LCFC_AP.jpeg" alt="Circular image" style="width: 100%; height: 100%;  object-fit: cover;">
+</div>
+
+&nbsp;
+
+I’m Andrew Peters (PhD), a **Data Scientist** specialising in **Data Visualisation, RShiny development** and **applied machine learning**. 
+
+My work bridges **sports analytics, finance, and pharmaceutical R&D** — turning complex datasets into clear, actionable insights.
+
+Have a look through my **Featured Projects** below which encompass the following areas:
+
+* 📊 Data Visualisation Redesign
+* ⚽️ Football Analytics
+* 👨‍💻 RShiny Development
+* 📈 Data Visualisation Portfolio
+
+<!-- ::: {.btn-container} -->
+<!-- [View Data Visualisation Portfolio](visualisations.qmd){.btn .btn-outline-secondary} -->
+<!-- ::: -->
+
+---
+
+## Featured Projects
+
+### [Data Visualisation Redesign](redesign.qmd)
+Before-and-after examples of improved chart quality using real-life working examples. This project also details a structured method to approach chart design and also provides a sample data visualisation style guide that I helped design.
+
+![](images/after_1.png){.featured-img}
+
+### [Football Analytics](publications.qmd)
+Data-driven insights into tactical performance and decision-making in elite football — integrating visualisation, machine learning, and event data analysis.
+
+![](images/Rest_Defence.jpg){.featured-img}
+
+### [Data Visualisation Portfolio](visualisations.qmd)
+Want to see my data visualisation portfolio at the click of button? Click the link above! 👆
+
+![](images/Euro.png){.featured-img}
+
+### [RShiny Development](dashboards.qmd)
+Interactive Fantasy Premier League analytics dashboards built in RShiny, focusing on player performance, mini-league data, fixture difficulty and more..
+
+![](images/Minutes_Matrix.png){.featured-img width=60% fig-align="center"}

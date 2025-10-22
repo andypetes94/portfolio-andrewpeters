@@ -1,0 +1,48 @@
+/* styles.css */
+
+/* Global font setup */
+body, h1, h2, h3, h4, h5, h6, p, li, a, nav {
+  font-family: 'Lato', sans-serif !important;
+}
+
+/* Improve readability for long text */
+body {
+  line-height: 1.6;
+  font-size: 1rem;
+  color: #333;
+}
+
+/* Optional: slightly heavier heading weights */
+h1, h2, h3 {
+  font-weight: 700;
+  color: #1D3557;
+}
+
+/* Navbar and footer styling for a cleaner look */
+.navbar, footer {
+  font-family: 'Lato', sans-serif;
+  font-weight: 500;
+}
+
+/* --- Left-align text inside the Jolla About template --- */
+
+/* Make all text in the about section left-aligned */
+.quarto-about-content,
+.quarto-about-content p,
+.quarto-about-content li,
+.quarto-about-content div,
+.quarto-about-content section {
+  text-align: left !important;
+}
+
+/* Keep the image and social links centered */
+.quarto-about-image,
+.quarto-about-links {
+  text-align: center !important;
+}
+
+/* Optional: give a bit more breathing room for readability */
+.quarto-about-content {
+  max-width: 900px;
+  margin: 0 auto;
+}

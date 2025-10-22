@@ -1,0 +1,26 @@
+---
+title: "Dashboards"
+categories: [Data Visualisation, Dashboard, RShiny, Fantasy Premier League]
+---
+
+As I have worked for multiple years on confidental industry RShiny projects, I've displayed below some personal RShiny projects derived from publically available Fantasy Premier League (FPL) Data.
+
+# 🧮 Fantasy Premier League Dashboards
+
+A collection of interactive RShiny applications developed using sample Fantasy Premier League (FPL) data.
+
+These dashboards showcase RShiny development, data wrangling, and real-time analytics integration.
+
+---
+
+## 🥇 FPL Desktop Dashboard
+
+Interactive dashboard tracking player form, value changes, and fixture difficulty and much more!
+
+<iframe src="https://andypetes.shinyapps.io/FPL_App2/" width="100%" height="600"></iframe>
+
+## ⚙️ Mobile-Friendly Dashboard
+
+A mobile friendly FPL Shiny App that help users on the go.
+
+<iframe src="https://andypetes.shinyapps.io/Test_Mobile/" width="100%" height="600"></iframe>

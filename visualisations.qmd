@@ -1,0 +1,53 @@
+---
+title: "Data Visualisation Portfolio"
+categories: [Data Visualisation, Design, Visualisation Principles, ggplot2]
+---
+
+# 📊 Data Visualisations
+
+Explore my data visualisation portfolio, as I showcase *ggplot2* skills in these diverse industries: 
+
+* [Section 1: Finance Visuals](#finance-visuals) 
+* [Section 2: Football Visuals](#football-visuals)
+
+## 📈 Section 1: Finance Visuals {#finance-visuals}
+[### 🧇 Waffle Chart ![Sample Waffle Chart](Visuals/CBI_Wealth.png)]:
+
+### 🍫 Vertical Bar Chart
+![Sample Vertical Bar Chart](Visuals/CBI_Line.png)
+
+### 🗻 Bump Chart
+![Sample Rank Chart](Visuals/Rank_Chart.png)
+
+### 💹 Chart Combinations
+![Sample Chart Combination](Visuals/CBI_Creative.png)
+
+&nbsp;
+
+## 📈 Section 2: Football Visuals {#football-visuals}
+### ⚽️ Shot Map
+![Sample Shot Map](Visuals/Qatar.png)
+
+### ️✚ Scatter Plot
+![Sample Scatter Plot](Visuals/Euro.png)
+
+### ️% Percentile Plot
+![Sample Percentile Plot](Visuals/Player_Percentile.png){width=60%}
+
+### ⌗ Data Tables
+![Sample Data Table](Visuals/my_table.points.All.10.png){width=60%}
+
+### 🥶 Jitter Chart
+![Sample JitterChart](Visuals/FPL_Points.Average.TopPlayers.png)
+
+### 💻 Minutes Matrix
+![Sample Minutes Matrix](Visuals/Minutes_Matrix.png){width=80%}
+
+### 🔺 Cumulative Points
+![Sample Cumulative Points Plot](Visuals/Cumulative.png){width=80%}
+
+<!-- ### 𝍁 Bump Chart -->
+<!-- ![Sample Bump Chart](Visuals/Mini_League.Rank.png) -->
+
+### 📈 xG Trend Graph
+![Sample Trend Graph](Visuals/XG_Trend.png)

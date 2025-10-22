@@ -1,0 +1,35 @@
+{
+  "projects/spi-dashboard.qmd": {
+    "spi-dashboard.html": "91c1fc43"
+  },
+  "projects/redesign.qmd": {
+    "redesign.html": "a92a286e"
+  },
+  "projects/counterpressing.qmd": {
+    "counterpressing.html": "349dfa3e"
+  },
+  "projects.qmd": {
+    "projects.html": "3f50e0d9"
+  },
+  "index.qmd": {
+    "index.html": "dcf351c2"
+  },
+  "publications.qmd": {
+    "publications.html": "5ec975b3"
+  },
+  "about.qmd": {
+    "about.html": "463efd24"
+  },
+  "dashboards.qmd": {
+    "dashboards.html": "289c5320"
+  },
+  "visualisations.qmd": {
+    "visualisations.html": "d1d9466b"
+  },
+  "projects/football-analytics.qmd": {
+    "football-analytics.html": "c3449895"
+  },
+  "redesign.qmd": {
+    "redesign.html": "9b5dbd05"
+  }
+}

@@ -1,0 +1,118 @@
+---
+about: 
+  template: marquee
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/andrew-peters-phd-70b58292/
+      icon: linkedin
+      target: _blank
+    - text: GitHub
+      href: https://github.com/andypetes94
+      icon: github
+      target: _blank 
+    - text: Email
+      href: mailto:andrewpeters1994@gmail.com
+      icon: envelope
+      target: _blank
+---
+
+# 👋 About Me
+
+I’m **Andrew Peters (PhD)**, a Data Scientist specialising in **Data Visualisation, RShiny development** and **applied machine learning**. 
+
+My work bridges **sports analytics, finance, and pharmaceutical R&D** — turning complex datasets into clear, actionable insights.
+
+---
+
+## 🎯 My Professional Focus
+
+I specialise in:
+
+- **Data Visualisation and design** — communicating complex results to non-technical audiences through clear visual design  
+- **Interactive data visualization** — developing dashboards and analytical tools using **RShiny**, **Tableau**, and **ggplot2**
+- **Machine learning for performance analysis** — applying models such as **XGBoost** and **Mixed Effects** to real-world problems  
+
+Across every role, I focus on helping organisations make data-driven decisions that are **intuitive, transparent, and impactful**.
+
+---
+
+## 💼 Professional Experience
+
+### **Data Scientist – Pfizer** *(Jan 2025 – Present)*
+- Develop and maintain RShiny apps used across global manufacturing and quality teams.  
+- Member of a small **UI/UX design group** responsible for the front-end design of deployed analytical apps.  
+- Support global adoption of the **Statistical Process Investigator (SPI)** app, ensuring clear communication of site-level quality data.  
+
+### **Senior Data Visualisation Specialist – Central Bank of Ireland** *(Oct 2023 – Nov 2024)*
+- Created internal **RShiny dashboards** for cross-departmental reporting.  
+- Designed visuals for **external economic publications** to improve data accessibility and impact.  
+- Delivered training on **data visualisation principles** to upskill analysts across teams.
+
+### **Data Scientist – Leicester City Football Club** *(Feb 2021 – Sep 2023)*  
+
+- Built analytical models to evaluate team and player performance using **event and tracking data**.  
+- Developed a suite of **custom RShiny apps** to automate visualization generation for coaches.  
+- Designed and deployed dashboards across **Performance Analysis, Sports Science, and Recruitment**.  
+- Presented at the **13th World Congress in the Performance Analysis of Sport (2022)** —  *“A Machine Learning Approach to Identify Pressing Targets in Football.”*  
+
+---
+
+## 🎓 Education
+
+- **PhD Data Science** — *Middlesex University (2021–2024)*  
+  - Research focused on tactical concepts of *pressing* and *rest defence* in football using machine learning.  
+
+- **MSc (High 1.1), Genomics Data Science** — *University of Galway (2018)*  
+  - Specialised in bioinformatics, machine learning, and data-driven genomics.
+
+- **BSc (High 2.1), Genetics** — *University College Dublin (2017)*  
+
+---
+
+## 🧑‍🏫 Teaching & Outreach
+
+I have designed and delivered **data visualization workshops** (1–3 hours), covering:
+
+- **Technical training** in R and ggplot2 — building reproducible, well-designed visuals  
+- **Conceptual sessions** on data storytelling, design thinking, and effective communication  
+
+Workshops have been run for staff at the **Central Bank of Ireland**, helping raise internal visualisation standards and analytical literacy.
+
+---
+
+## 🧰 Technical Skills
+
+**Languages:** R, Python, SQL  
+**Visualisation Tools:** RShiny, ggplot2, Plotly, Tableau, Power BI  
+**Machine Learning:** Scikit-Learn, XGBoost, Mixed Effects Modeling  
+**Cloud & Infrastructure:** AWS, API integration  
+**Design:** UI/UX for analytical apps, dashboard automation  
+
+---
+
+<!-- --- -->
+
+<!-- ### 🧩 Data Visualization Society Mentorship Program (June–August 2025) -->
+
+<!-- I participated as a **mentor** in the **Data Visualisation Society Mentorship Program**, an initiative that brought together **61 data visualization professionals** who collectively supported **82 early-career practitioners** across design, research, analysis, and creative disciplines. -->
+
+<!-- It was a privilege to contribute to this program — helping foster the next generation of talent and promoting best practices in design, communication, and analytical storytelling within the data visualization community. -->
+
+<!-- --- -->
+
+## 📚 Selected Publications
+
+- **Counterpressing and Rest Defence in Football** (*Journal of Sports Analytics, 2025*)  
+- **Creation of a KPI to Evaluate Possession Retention** (*Journal of Sports Sciences, 2024*)  
+
+View publications → [Football Analytics Project](publications.qmd)
+
+---
+
+## 🏁 Summary
+
+I’m driven by the challenge of making data both **insightful and intuitive** — building tools and visuals that help others understand complex systems, whether in sport, finance, or science. 
+
+My mission is simple: **combine analytical rigor with design thinking** to turn data into understanding.
+
+---

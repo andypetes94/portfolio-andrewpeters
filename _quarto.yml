@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Andrew Peters"
+  description: "Transforming complex data into clear, actionable insights."
+  favicon: images/Logo_Opaque.png
+  navbar:
+    logo: images/Logo_Opaque.png
+    left:
+      - href: index.qmd
+        text: Home
+      - href: redesign.qmd
+        text: Data Visualisation Redesign
+      - href: publications.qmd
+        text: Football Analytics
+      - href: visualisations.qmd
+        text: Data Visualisation Portfolio
+      - href: dashboards.qmd
+        text: Dashboards
+      - href: about.qmd
+        text: About
+    right: 
+      - icon: github  # Font Awesome icon for GitHub
+        href: "https://github.com/andypetes94"
+        target: "_blank"
+  search: true
+
+format:
+  html:
+    theme: 
+      light: flatly
+      dark: darkly
+    mainfont: "Lato"
+    headingfont: "Montserrat"
+    css: styles.css
+    toc: true
+    smooth-scroll: true

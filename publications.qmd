@@ -1,0 +1,90 @@
+---
+title: "Football Analytics"
+categories: [Data Science, Machine Learning, Visualisation, Conference Speaking]
+---
+
+I was fortunate enough to work for Leicester City Football club for 3 years. (→ [Professional Experience](about.qmd))
+
+During this time, I was involved in managing back-end and front-end operations for analytics initiatives across the **Performance Analysis, Sports Science and Recruitment Departments**. I delivered frequent **RMarkdown** & PDF reports and deployed **RShiny** & **Tableau** dashboards acorss all of these departments.
+
+In addition, I investigated the relationship between *Rest Defence* and Counterpressing ([1. Counterpressing in Football](#counterpressing-id)), aswell as developed machine learning methods to analyse passing events ([2. Modelling Passing in Football](#xPT-id)).
+
+# 📚 Publications & Research
+
+This project highlights my research work in **football (soccer) analytics**, combining machine learning, modelling and data storytelling to provide actionable insights for practitioner coaches and analysts.
+
+Studies below have been **peer-reviewed and published** in leading sports science journals.
+
+---
+
+### 🔄 1. Counterpressing in Football {#counterpressing-id} 
+*International Journal of Performance Analysis in Sport (2025)*
+
+A rule-based approach to classify counterpressing – analysis of its risks and relationship with rest defence.
+
+[Read Paper →](https://www.tandfonline.com/doi/full/10.1080/24748668.2025.2473799)
+
+**Summary:**  
+Defensive Transition was be assessed by measuring counterpressure success against instances of shot and territory (counter-attack) concession. 
+
+The number of players occupying the *Rest Defence* zone was found to have a significant relationship with shot concession (p < 0.05) and territory concession (p < 0.001) following possession loss in the opposition’s final third. 
+
+
+![](images/Rest_Defence.jpg){width=60% fig-align="center"}
+
+### ⚽️ 2. Modelling Passing in Football {#xPT-id}
+*Journal of Sport Sciences (2024)*
+
+Expected Pass Turnovers (xPT) - a machine learning approach to analyse turnovers from passing events in football
+
+[Read Paper →](https://www.tandfonline.com/doi/full/10.1080/02640414.2024.2379697)
+
+**Summary:**  
+The aim of this study was to create a novel metric, *Expected Pass Turnovers* (xPT), that could evaluate possession retention from player-passing events in football. 
+
+A logistic mixed-effects model was implemented to attribute the probability of each pass getting turned over. The use of positional data enabled the identification of a) opposition players present in radii surrounding the ball carrier and b) availability of teammates with respect to the ball carrier. 
+
+![](images/Passing_Turnovers.jpg){width=60% fig-align="center"}
+
+## 🎤 Conference Presentation
+
+I presented **“A Machine Learning Approach to Identify Pressing Targets in Football”** at the **13th World Congress of Performance Analysis of Sport (2022)**.
+
+The talk demonstrated how a machine learning appraoch, that leveraged positional data and visualisation techniques, can help identify pressing triggers and target patterns.
+
+This presentation showcased how applied data science methods can translate directly into actionable insights for elite sports environments.
+
+![](images/Conference.jpg){fig-align="center"}
+
+
+
+## 💡 Insights and Broader Impact
+
+- Data visualisation enables **coaches to interpret tactical models** quickly and intuitively.  
+- The combination of **spatial and event data** will always create models of greater accuracy. 
+
+---
+
+## 🔗 Related Football Analytics Work
+
+- [Fantasy Premier League Dashboards →](dashboards.qmd)
+
+---
+
+
+<!-- ### 🧬 Inferring Somatic Mutations from RNA-Seq Data -->
+
+<!-- *Genetics (2023)*   -->
+
+<!-- Somatic mutations inferred from RNA-seq data highlight the contribution of replication timing to mutation rate variation in a model plant. -->
+
+<!-- [Read Paper →](https://academic.oup.com/genetics/article/225/2/iyad128/7224426?login=false) -->
+
+<!-- **Summary:**   -->
+<!-- Variation in the rates and characteristics of germline and somatic mutations across the genome of an organism is informative about DNA damage and repair processes and can also shed light on aspects of organism physiology and evolution.  -->
+
+<!-- The wide range of genomic data types available for A. thaliana enabled us to investigate the relationships of multiple genomic features with the variation in the somatic mutation rate across the genome of this model plant.  -->
+
+<!-- We observed that late replicated regions showed evidence of an elevated rate of somatic mutation compared to genomic regions that are replicated early. We identified transcriptional strand asymmetries, consistent with the effects of transcription-coupled damage and/or repair.  -->
+
+<!-- ![](images/genetics.jpg){width=60% fig-align="center"} -->

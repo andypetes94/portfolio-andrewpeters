@@ -1,0 +1,177 @@
+[
+  {
+    "objectID": "dashboards.html",
+    "href": "dashboards.html",
+    "title": "Dashboards",
+    "section": "",
+    "text": "As I have worked for multiple years on confidental industry RShiny projects, I’ve displayed below some personal RShiny projects derived from publically available Fantasy Premier League (FPL) Data."
+  },
+  {
+    "objectID": "dashboards.html#fpl-desktop-dashboard",
+    "href": "dashboards.html#fpl-desktop-dashboard",
+    "title": "Dashboards",
+    "section": "🥇 FPL Desktop Dashboard",
+    "text": "🥇 FPL Desktop Dashboard\nInteractive dashboard tracking player form, value changes, and fixture difficulty and much more!"
+  },
+  {
+    "objectID": "dashboards.html#mobile-friendly-dashboard",
+    "href": "dashboards.html#mobile-friendly-dashboard",
+    "title": "Dashboards",
+    "section": "⚙️ Mobile-Friendly Dashboard",
+    "text": "⚙️ Mobile-Friendly Dashboard\nA mobile friendly FPL Shiny App that help users on the go."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "👋 About Me",
+    "section": "",
+    "text": "I’m Andrew Peters (PhD), a Data Scientist specialising in Data Visualisation, RShiny development and applied machine learning.\nMy work bridges sports analytics, finance, and pharmaceutical R&D — turning complex datasets into clear, actionable insights.\n\n\n\nI specialise in:\n\nData Visualisation and design — communicating complex results to non-technical audiences through clear visual design\n\nInteractive data visualization — developing dashboards and analytical tools using RShiny, Tableau, and ggplot2\nMachine learning for performance analysis — applying models such as XGBoost and Mixed Effects to real-world problems\n\nAcross every role, I focus on helping organisations make data-driven decisions that are intuitive, transparent, and impactful.\n\n\n\n\n\n\n\nDevelop and maintain RShiny apps used across global manufacturing and quality teams.\n\nMember of a small UI/UX design group responsible for the front-end design of deployed analytical apps.\n\nSupport global adoption of the Statistical Process Investigator (SPI) app, ensuring clear communication of site-level quality data.\n\n\n\n\n\nCreated internal RShiny dashboards for cross-departmental reporting.\n\nDesigned visuals for external economic publications to improve data accessibility and impact.\n\nDelivered training on data visualisation principles to upskill analysts across teams.\n\n\n\n\n\nBuilt analytical models to evaluate team and player performance using event and tracking data.\n\nDeveloped a suite of custom RShiny apps to automate visualization generation for coaches.\n\nDesigned and deployed dashboards across Performance Analysis, Sports Science, and Recruitment.\n\nPresented at the 13th World Congress in the Performance Analysis of Sport (2022) — “A Machine Learning Approach to Identify Pressing Targets in Football.”\n\n\n\n\n\n\n\nPhD Data Science — Middlesex University (2021–2024)\n\nResearch focused on tactical concepts of pressing and rest defence in football using machine learning.\n\nMSc (High 1.1), Genomics Data Science — University of Galway (2018)\n\nSpecialised in bioinformatics, machine learning, and data-driven genomics.\n\nBSc (High 2.1), Genetics — University College Dublin (2017)\n\n\n\n\n\nI have designed and delivered data visualization workshops (1–3 hours), covering:\n\nTechnical training in R and ggplot2 — building reproducible, well-designed visuals\n\nConceptual sessions on data storytelling, design thinking, and effective communication\n\nWorkshops have been run for staff at the Central Bank of Ireland, helping raise internal visualisation standards and analytical literacy.\n\n\n\n\nLanguages: R, Python, SQL\nVisualisation Tools: RShiny, ggplot2, Plotly, Tableau, Power BI\nMachine Learning: Scikit-Learn, XGBoost, Mixed Effects Modeling\nCloud & Infrastructure: AWS, API integration\nDesign: UI/UX for analytical apps, dashboard automation\n\n\n\n\n\n\n\n\n\n\nCounterpressing and Rest Defence in Football (Journal of Sports Analytics, 2025)\n\nCreation of a KPI to Evaluate Possession Retention (Journal of Sports Sciences, 2024)\n\nView publications → Football Analytics Project\n\n\n\n\nI’m driven by the challenge of making data both insightful and intuitive — building tools and visuals that help others understand complex systems, whether in sport, finance, or science.\nMy mission is simple: combine analytical rigor with design thinking to turn data into understanding."
+  },
+  {
+    "objectID": "about.html#my-professional-focus",
+    "href": "about.html#my-professional-focus",
+    "title": "👋 About Me",
+    "section": "",
+    "text": "I specialise in:\n\nData Visualisation and design — communicating complex results to non-technical audiences through clear visual design\n\nInteractive data visualization — developing dashboards and analytical tools using RShiny, Tableau, and ggplot2\nMachine learning for performance analysis — applying models such as XGBoost and Mixed Effects to real-world problems\n\nAcross every role, I focus on helping organisations make data-driven decisions that are intuitive, transparent, and impactful."
+  },
+  {
+    "objectID": "about.html#professional-experience",
+    "href": "about.html#professional-experience",
+    "title": "👋 About Me",
+    "section": "",
+    "text": "Develop and maintain RShiny apps used across global manufacturing and quality teams.\n\nMember of a small UI/UX design group responsible for the front-end design of deployed analytical apps.\n\nSupport global adoption of the Statistical Process Investigator (SPI) app, ensuring clear communication of site-level quality data.\n\n\n\n\n\nCreated internal RShiny dashboards for cross-departmental reporting.\n\nDesigned visuals for external economic publications to improve data accessibility and impact.\n\nDelivered training on data visualisation principles to upskill analysts across teams.\n\n\n\n\n\nBuilt analytical models to evaluate team and player performance using event and tracking data.\n\nDeveloped a suite of custom RShiny apps to automate visualization generation for coaches.\n\nDesigned and deployed dashboards across Performance Analysis, Sports Science, and Recruitment.\n\nPresented at the 13th World Congress in the Performance Analysis of Sport (2022) — “A Machine Learning Approach to Identify Pressing Targets in Football.”"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "👋 About Me",
+    "section": "",
+    "text": "PhD Data Science — Middlesex University (2021–2024)\n\nResearch focused on tactical concepts of pressing and rest defence in football using machine learning.\n\nMSc (High 1.1), Genomics Data Science — University of Galway (2018)\n\nSpecialised in bioinformatics, machine learning, and data-driven genomics.\n\nBSc (High 2.1), Genetics — University College Dublin (2017)"
+  },
+  {
+    "objectID": "about.html#teaching-outreach",
+    "href": "about.html#teaching-outreach",
+    "title": "👋 About Me",
+    "section": "",
+    "text": "I have designed and delivered data visualization workshops (1–3 hours), covering:\n\nTechnical training in R and ggplot2 — building reproducible, well-designed visuals\n\nConceptual sessions on data storytelling, design thinking, and effective communication\n\nWorkshops have been run for staff at the Central Bank of Ireland, helping raise internal visualisation standards and analytical literacy."
+  },
+  {
+    "objectID": "about.html#technical-skills",
+    "href": "about.html#technical-skills",
+    "title": "👋 About Me",
+    "section": "",
+    "text": "Languages: R, Python, SQL\nVisualisation Tools: RShiny, ggplot2, Plotly, Tableau, Power BI\nMachine Learning: Scikit-Learn, XGBoost, Mixed Effects Modeling\nCloud & Infrastructure: AWS, API integration\nDesign: UI/UX for analytical apps, dashboard automation"
+  },
+  {
+    "objectID": "about.html#selected-publications",
+    "href": "about.html#selected-publications",
+    "title": "👋 About Me",
+    "section": "",
+    "text": "Counterpressing and Rest Defence in Football (Journal of Sports Analytics, 2025)\n\nCreation of a KPI to Evaluate Possession Retention (Journal of Sports Sciences, 2024)\n\nView publications → Football Analytics Project"
+  },
+  {
+    "objectID": "about.html#summary",
+    "href": "about.html#summary",
+    "title": "👋 About Me",
+    "section": "",
+    "text": "I’m driven by the challenge of making data both insightful and intuitive — building tools and visuals that help others understand complex systems, whether in sport, finance, or science.\nMy mission is simple: combine analytical rigor with design thinking to turn data into understanding."
+  },
+  {
+    "objectID": "redesign.html",
+    "href": "redesign.html",
+    "title": "Data Visualisation Redesign",
+    "section": "",
+    "text": "I have redesigned visuals which improved clarity, accessibility, and enhanced storytelling impact. These visuals were made publicly available and experienced enhanced social media interaction and visibility than their predecessors.\nRedesign Projects Included:\n\n🏠 Example 1: Household Net Wealth\n🏦 Example 2: Loan Interest Rates\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nIn 2024, I created a Data Visualization Style Guide for the Central Bank of Ireland, developed in collaboration with the Communications department.\nThis guide formalised the institution’s approach to visual communication — ensuring that charts and dashboards across all departments followed a consistent, accessible, and design-informed standard.\n\nPurpose of the Guide:\n\nEstablish color palettes aligned with accessibility and brand identity\n\nPromote best practices for labeling, annotation, and storytelling\n\nStandardise visual output across RShiny and publication workflows\n\nThe guide has since been implemented to elevate visual standards and ensure chart consistency across the organisation.\n📄 View the Data Visualisation Style Guide (PDF)\n \n\n\n\nAlongside my redesign projects, I have designed and delivered numerous data visualisation workshops, ranging from 1-hour sessions to 3-hour deep dives, catering to both technical and non-technical audiences.\n\n\n\nThese sessions focus on developing hands-on skills using ggplot2 and the grammar of graphics framework.\nParticipants learn to:\n\nBuild visuals layer by layer using R and ggplot2\n\nCustomise color, theme, and layout for professional-quality outputs\n\nApply design principles directly within R scripts\n\nUse reproducible workflows to standardize internal reporting visuals\n\nExample sessions include:\n\n“From Data to Design: An Introduction to ggplot2”\n\n\n\n\n\nThese sessions focus on conceptual understanding and visual storytelling.\nTopics include:\n\nThe do’s and dont’s in data visualisation\nResearch-based appraoches that lead to greater chart engagement\nApplying best practices to enable charts of greater clarity\n\nExample sessions include:\n\n“Design Thinking for Analysts”\n\nI have delivered these workshops within the Central Bank of Ireland where they have helped elevate in-house visualisation standards and design literacy.\n\n\n\n\n\n\nEffective visualization = design + communication\n\nRedesigning a chart is about understanding audience perception and context, not just aesthetics\n\nTeaching others reinforces strong habits of clarity, simplicity, and storytelling in every visualisation\n\n\n\n\n\nThis section of my portfolio reflects not only my ability to create impactful visuals, but also to teach and empower others to do the same — helping teams communicate data more clearly, confidently, and creatively."
+  },
+  {
+    "objectID": "redesign.html#data-visualization-style-guide-creation",
+    "href": "redesign.html#data-visualization-style-guide-creation",
+    "title": "Data Visualisation Redesign",
+    "section": "",
+    "text": "In 2024, I created a Data Visualization Style Guide for the Central Bank of Ireland, developed in collaboration with the Communications department.\nThis guide formalised the institution’s approach to visual communication — ensuring that charts and dashboards across all departments followed a consistent, accessible, and design-informed standard.\n\nPurpose of the Guide:\n\nEstablish color palettes aligned with accessibility and brand identity\n\nPromote best practices for labeling, annotation, and storytelling\n\nStandardise visual output across RShiny and publication workflows\n\nThe guide has since been implemented to elevate visual standards and ensure chart consistency across the organisation.\n📄 View the Data Visualisation Style Guide (PDF)"
+  },
+  {
+    "objectID": "redesign.html#teaching-workshops",
+    "href": "redesign.html#teaching-workshops",
+    "title": "Data Visualisation Redesign",
+    "section": "",
+    "text": "Alongside my redesign projects, I have designed and delivered numerous data visualisation workshops, ranging from 1-hour sessions to 3-hour deep dives, catering to both technical and non-technical audiences.\n\n\n\nThese sessions focus on developing hands-on skills using ggplot2 and the grammar of graphics framework.\nParticipants learn to:\n\nBuild visuals layer by layer using R and ggplot2\n\nCustomise color, theme, and layout for professional-quality outputs\n\nApply design principles directly within R scripts\n\nUse reproducible workflows to standardize internal reporting visuals\n\nExample sessions include:\n\n“From Data to Design: An Introduction to ggplot2”\n\n\n\n\n\nThese sessions focus on conceptual understanding and visual storytelling.\nTopics include:\n\nThe do’s and dont’s in data visualisation\nResearch-based appraoches that lead to greater chart engagement\nApplying best practices to enable charts of greater clarity\n\nExample sessions include:\n\n“Design Thinking for Analysts”\n\nI have delivered these workshops within the Central Bank of Ireland where they have helped elevate in-house visualisation standards and design literacy."
+  },
+  {
+    "objectID": "redesign.html#key-takeaways",
+    "href": "redesign.html#key-takeaways",
+    "title": "Data Visualisation Redesign",
+    "section": "",
+    "text": "Effective visualization = design + communication\n\nRedesigning a chart is about understanding audience perception and context, not just aesthetics\n\nTeaching others reinforces strong habits of clarity, simplicity, and storytelling in every visualisation"
+  },
+  {
+    "objectID": "redesign.html#summary",
+    "href": "redesign.html#summary",
+    "title": "Data Visualisation Redesign",
+    "section": "",
+    "text": "This section of my portfolio reflects not only my ability to create impactful visuals, but also to teach and empower others to do the same — helping teams communicate data more clearly, confidently, and creatively."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "I’m Andrew Peters (PhD), a Data Scientist specialising in Data Visualisation, RShiny development and applied machine learning.\nMy work bridges sports analytics, finance, and pharmaceutical R&D — turning complex datasets into clear, actionable insights.\nHave a look through my Featured Projects below which encompass the following areas:"
+  },
+  {
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "Home",
+    "section": "Featured Projects",
+    "text": "Featured Projects\n\nData Visualisation Redesign\nBefore-and-after examples of improved chart quality using real-life working examples. This project also details a structured method to approach chart design and also provides a sample data visualisation style guide that I helped design.\n\n\n\nFootball Analytics\nData-driven insights into tactical performance and decision-making in elite football — integrating visualisation, machine learning, and event data analysis.\n\n\n\nData Visualisation Portfolio\nWant to see my data visualisation portfolio at the click of button? Click the link above! 👆\n\n\n\nRShiny Development\nInteractive Fantasy Premier League analytics dashboards built in RShiny, focusing on player performance, mini-league data, fixture difficulty and more.."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Football Analytics",
+    "section": "",
+    "text": "I was fortunate enough to work for Leicester City Football club for 3 years. (→ Professional Experience)\nDuring this time, I was involved in managing back-end and front-end operations for analytics initiatives across the Performance Analysis, Sports Science and Recruitment Departments. I delivered frequent RMarkdown & PDF reports and deployed RShiny & Tableau dashboards acorss all of these departments.\nIn addition, I investigated the relationship between Rest Defence and Counterpressing (1. Counterpressing in Football), aswell as developed machine learning methods to analyse passing events (2. Modelling Passing in Football)."
+  },
+  {
+    "objectID": "publications.html#conference-presentation",
+    "href": "publications.html#conference-presentation",
+    "title": "Football Analytics",
+    "section": "🎤 Conference Presentation",
+    "text": "🎤 Conference Presentation\nI presented “A Machine Learning Approach to Identify Pressing Targets in Football” at the 13th World Congress of Performance Analysis of Sport (2022).\nThe talk demonstrated how a machine learning appraoch, that leveraged positional data and visualisation techniques, can help identify pressing triggers and target patterns.\nThis presentation showcased how applied data science methods can translate directly into actionable insights for elite sports environments."
+  },
+  {
+    "objectID": "publications.html#insights-and-broader-impact",
+    "href": "publications.html#insights-and-broader-impact",
+    "title": "Football Analytics",
+    "section": "💡 Insights and Broader Impact",
+    "text": "💡 Insights and Broader Impact\n\nData visualisation enables coaches to interpret tactical models quickly and intuitively.\n\nThe combination of spatial and event data will always create models of greater accuracy."
+  },
+  {
+    "objectID": "publications.html#related-football-analytics-work",
+    "href": "publications.html#related-football-analytics-work",
+    "title": "Football Analytics",
+    "section": "🔗 Related Football Analytics Work",
+    "text": "🔗 Related Football Analytics Work\n\nFantasy Premier League Dashboards →"
+  },
+  {
+    "objectID": "visualisations.html",
+    "href": "visualisations.html",
+    "title": "Data Visualisation Portfolio",
+    "section": "",
+    "text": "Explore my data visualisation portfolio, as I showcase ggplot2 skills in these diverse industries:\n\nSection 1: Finance Visuals\nSection 2: Football Visuals\n\n\n\n\n\n\n\n\nSample Vertical Bar Chart\n\n\n\n\n\n\n\n\nSample Rank Chart\n\n\n\n\n\n\n\n\nSample Chart Combination\n\n\n \n\n\n\n\n\n\n\n\n\nSample Shot Map\n\n\n\n\n\n\n\n\nSample Scatter Plot\n\n\n\n\n\n\n\n\nSample Percentile Plot\n\n\n\n\n\n\n\n\nSample Data Table\n\n\n\n\n\n\n\n\nSample JitterChart\n\n\n\n\n\n\n\n\nSample Minutes Matrix\n\n\n\n\n\n\n\n\nSample Cumulative Points Plot\n\n\n\n\n\n\n\n\n\n\nSample Trend Graph"
+  },
+  {
+    "objectID": "visualisations.html#finance-visuals",
+    "href": "visualisations.html#finance-visuals",
+    "title": "Data Visualisation Portfolio",
+    "section": "",
+    "text": "Sample Vertical Bar Chart\n\n\n\n\n\n\n\n\nSample Rank Chart\n\n\n\n\n\n\n\n\nSample Chart Combination"
+  },
+  {
+    "objectID": "visualisations.html#football-visuals",
+    "href": "visualisations.html#football-visuals",
+    "title": "Data Visualisation Portfolio",
+    "section": "",
+    "text": "Sample Shot Map\n\n\n\n\n\n\n\n\nSample Scatter Plot\n\n\n\n\n\n\n\n\nSample Percentile Plot\n\n\n\n\n\n\n\n\nSample Data Table\n\n\n\n\n\n\n\n\nSample JitterChart\n\n\n\n\n\n\n\n\nSample Minutes Matrix\n\n\n\n\n\n\n\n\nSample Cumulative Points Plot\n\n\n\n\n\n\n\n\n\n\nSample Trend Graph"
+  }
+]
