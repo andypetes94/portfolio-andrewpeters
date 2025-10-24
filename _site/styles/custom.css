@@ -1,0 +1,12 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+.featured-img {
+  border-radius: 12px;
+  margin-top: 0.5em;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.btn-container .btn {
+  margin-right: 0.5em;
+  margin-top: 0.5em;
+}
