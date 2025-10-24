@@ -32,7 +32,6 @@ The site is powered by **Quarto**, using **HTML output** with a clean, responsiv
 ## 📁 Repository Structure
 
 ```
-├── _site/                  # Generated website output
 ├── images/                 # Logos, icons, and images used in site
 ├── styles.css              # Custom CSS for theming and styling
 ├── index.qmd               # Home page
@@ -72,7 +71,15 @@ cd your-website-repo
 quarto render
 ```
 
-4. Open `_site/index.html` in your browser to preview.
+This will generate a _site/ folder in your local directory with the rendered website files.
+
+4. Preview the website:
+
+Open `_site/index.html` in your browser to preview the site locally.
+
+### View the live website
+The latest version of the site is always available at:
+https://andypetes94.github.io/portfolio-andrewpeters/
 
 ---
 
