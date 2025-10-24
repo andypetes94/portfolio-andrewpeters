@@ -289,7 +289,7 @@ ul.task-list li input[type="checkbox"] {
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/andypetes94" target="_blank"> <i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/andypetes94/portfolio-andrewpeters" target="_blank"> <i class="bi bi-github" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -318,7 +318,11 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#bump-chart" id="toc-bump-chart" class="nav-link" data-scroll-target="#bump-chart">🗻 Bump Chart</a></li>
   <li><a href="#chart-combinations" id="toc-chart-combinations" class="nav-link" data-scroll-target="#chart-combinations">💹 Chart Combinations</a></li>
   </ul></li>
-  <li><a href="#football-visuals" id="toc-football-visuals" class="nav-link" data-scroll-target="#football-visuals">📈 Section 2: Football Visuals</a>
+  <li><a href="#hyrox-visuals" id="toc-hyrox-visuals" class="nav-link" data-scroll-target="#hyrox-visuals">💪 Section 2: Fitness Visuals</a>
+  <ul class="collapse">
+  <li><a href="#bar-chart-line-plot-combination" id="toc-bar-chart-line-plot-combination" class="nav-link" data-scroll-target="#bar-chart-line-plot-combination">🤝 Bar Chart &amp; Line Plot Combination</a></li>
+  </ul></li>
+  <li><a href="#football-visuals" id="toc-football-visuals" class="nav-link" data-scroll-target="#football-visuals">📈 Section 3: Football Visuals</a>
   <ul class="collapse">
   <li><a href="#shot-map" id="toc-shot-map" class="nav-link" data-scroll-target="#shot-map">⚽️ Shot Map</a></li>
   <li><a href="#scatter-plot" id="toc-scatter-plot" class="nav-link" data-scroll-target="#scatter-plot">️✚ Scatter Plot</a></li>
@@ -367,7 +371,8 @@ ul.task-list li input[type="checkbox"] {
 <p>Explore my data visualisation portfolio, as I showcase <em>ggplot2</em> skills in these diverse industries:</p>
 <ul>
 <li><a href="#finance-visuals">Section 1: Finance Visuals</a></li>
-<li><a href="#football-visuals">Section 2: Football Visuals</a></li>
+<li><a href="#hyrox-visuals">Section 2: Fitness Visuals</a></li>
+<li><a href="#football-visuals">Section 3: Football Visuals</a></li>
 </ul>
 <section id="finance-visuals" class="level2">
 <h2 class="anchored" data-anchor-id="finance-visuals">📈 Section 1: Finance Visuals</h2>
@@ -400,8 +405,21 @@ ul.task-list li input[type="checkbox"] {
 <p>&nbsp;</p>
 </section>
 </section>
+<section id="hyrox-visuals" class="level2">
+<h2 class="anchored" data-anchor-id="hyrox-visuals">💪 Section 2: Fitness Visuals</h2>
+<section id="bar-chart-line-plot-combination" class="level3">
+<h3 class="anchored" data-anchor-id="bar-chart-line-plot-combination">🤝 Bar Chart &amp; Line Plot Combination</h3>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="Visuals/HYROX.Combined.png" class="img-fluid figure-img"></p>
+<figcaption>Hyrox Combination Plot</figcaption>
+</figure>
+</div>
+<p>&nbsp;</p>
+</section>
+</section>
 <section id="football-visuals" class="level2">
-<h2 class="anchored" data-anchor-id="football-visuals">📈 Section 2: Football Visuals</h2>
+<h2 class="anchored" data-anchor-id="football-visuals">📈 Section 3: Football Visuals</h2>
 <section id="shot-map" class="level3">
 <h3 class="anchored" data-anchor-id="shot-map">⚽️ Shot Map</h3>
 <div class="quarto-figure quarto-figure-center">
@@ -568,7 +586,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/andypeters94\.quarto\.pub\/andrew-peters-background");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

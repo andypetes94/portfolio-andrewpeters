@@ -8,7 +8,8 @@ categories: [Data Visualisation, Design, Visualisation Principles, ggplot2]
 Explore my data visualisation portfolio, as I showcase *ggplot2* skills in these diverse industries: 
 
 * [Section 1: Finance Visuals](#finance-visuals) 
-* [Section 2: Football Visuals](#football-visuals)
+* [Section 2: Fitness Visuals](#hyrox-visuals) 
+* [Section 3: Football Visuals](#football-visuals)
 
 ## 📈 Section 1: Finance Visuals {#finance-visuals}
 [### 🧇 Waffle Chart ![Sample Waffle Chart](Visuals/CBI_Wealth.png)]:
@@ -24,7 +25,14 @@ Explore my data visualisation portfolio, as I showcase *ggplot2* skills in these
 
 &nbsp;
 
-## 📈 Section 2: Football Visuals {#football-visuals}
+## 💪 Section 2: Fitness Visuals {#hyrox-visuals}
+### 🤝 Bar Chart & Line Plot Combination
+![Hyrox Combination Plot](Visuals/HYROX.Combined.png)
+
+
+&nbsp;
+
+## 📈 Section 3: Football Visuals {#football-visuals}
 ### ⚽️ Shot Map
 ![Sample Shot Map](Visuals/Qatar.png)
 

@@ -5,12 +5,15 @@ categories: [Design, Visualisation Principles, Teaching]
 
 # 👨‍🎨 Visualisation Redesign
 
-I have redesigned visuals which improved clarity, accessibility, and enhanced storytelling impact. These visuals were made publicly available and experienced enhanced social media interaction and visibility than their predecessors. 
+I have redesigned visuals which improved clarity, accessibility and enhanced storytelling impact. These first two examples were made publicly available and experienced enhanced social media interaction and visibility than their predecessors. 
 
-Redesign Projects Included:
+The third example was a personal project, as I attempted to delve into the data behind my personal **HYROX performance**.
+
+Redesign Projects Include:
 
 * 🏠 [Example 1: Household Net Wealth](#example1-redesign)
 * 🏦 [Example 2: Loan Interest Rates](#example2-redesign)
+* 🏃‍♂️ [Example 3: Personal HYROX Data](#example3-redesign)
 
 &nbsp;
 
@@ -39,6 +42,30 @@ Redesign Projects Included:
 ![](images/Improvements_2.png)
 
 &nbsp;
+
+## 🏃‍♂️ Example 3: Personal HYROX Data {#example3-redesign}
+
+### ⮐ Before
+
+Three separate charts describing HYROX Performance.
+
+::: {layout-ncol=3}
+![](images/Avg_Bar.jpg)
+
+![](images/Avg_Cumulative.jpg)
+
+![](images/Heart_Rate.jpg)
+:::
+
+
+### ⮑ After
+
+Combination of three separate charts into a clean, single graphic.
+
+![](Visuals/HYROX.Combined.png)
+
+&nbsp;
+
 
 ## 🔨 Chart Redesign Process
 
