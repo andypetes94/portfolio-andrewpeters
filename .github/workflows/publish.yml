@@ -1,0 +1,38 @@
+name: Publish Quarto site to GitHub Pages
+
+on:
+  push:
+    branches: [ main ]   # Deploy whenever you push to main
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      # Optional: set up R or Python if your site uses them
+      # - uses: r-lib/actions/setup-r@v2
+      # - uses: actions/setup-python@v5
+      #   with:
+      #     python-version: '3.12'
+
+      - name: Render site
+        run: quarto render
+
+      - name: Publish to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: _site
+          #cname: mydomain.com    # 👈 replace with your domain
+
