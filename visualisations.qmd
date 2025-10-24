@@ -23,39 +23,49 @@ Explore my data visualisation portfolio, as I showcase *ggplot2* skills in these
 ### 💹 Chart Combinations
 ![Sample Chart Combination](Visuals/CBI_Creative.png)
 
+
 &nbsp;
 
 ## 💪 Section 2: Fitness Visuals {#hyrox-visuals}
 ### 🤝 Bar Chart & Line Plot Combination
-![Hyrox Combination Plot](Visuals/HYROX.Combined.png)
+#### Click Image to enlarge 👇
+![](Visuals/HYROX.Combined.png){.lightbox}
 
 
 &nbsp;
 
 ## 📈 Section 3: Football Visuals {#football-visuals}
 ### ⚽️ Shot Map
-![Sample Shot Map](Visuals/Qatar.png)
+#### Click Image to enlarge 👇
+![Sample Shot Map](Visuals/Qatar.png){.lightbox}
 
 ### ️✚ Scatter Plot
-![Sample Scatter Plot](Visuals/Euro.png)
+#### Click Image to enlarge 👇
+![Sample Scatter Plot](Visuals/Euro.png){.lightbox}
 
 ### ️% Percentile Plot
-![Sample Percentile Plot](Visuals/Player_Percentile.png){width=60%}
+#### Click Image to enlarge 👇
+![Sample Percentile Plot](Visuals/Player_Percentile.png){width=60% .lightbox}
 
 ### ⌗ Data Tables
-![Sample Data Table](Visuals/my_table.points.All.10.png){width=60%}
+#### Click Image to enlarge 👇
+![Sample Data Table](Visuals/my_table.points.All.10.png){width=60% .lightbox}
 
 ### 🥶 Jitter Chart
-![Sample JitterChart](Visuals/FPL_Points.Average.TopPlayers.png)
+#### Click Image to enlarge 👇
+![Sample JitterChart](Visuals/FPL_Points.Average.TopPlayers.png){.lightbox}
 
 ### 💻 Minutes Matrix
-![Sample Minutes Matrix](Visuals/Minutes_Matrix.png){width=80%}
+#### Click Image to enlarge 👇
+![Sample Minutes Matrix](Visuals/Minutes_Matrix.png){width=80% .lightbox}
 
 ### 🔺 Cumulative Points
-![Sample Cumulative Points Plot](Visuals/Cumulative.png){width=80%}
+#### Click Image to enlarge 👇
+![Sample Cumulative Points Plot](Visuals/Cumulative.png){width=80% .lightbox}
 
 <!-- ### 𝍁 Bump Chart -->
 <!-- ![Sample Bump Chart](Visuals/Mini_League.Rank.png) -->
 
 ### 📈 xG Trend Graph
-![Sample Trend Graph](Visuals/XG_Trend.png)
+#### Click Image to enlarge 👇
+![Sample Trend Graph](Visuals/XG_Trend.png){.lightbox}
