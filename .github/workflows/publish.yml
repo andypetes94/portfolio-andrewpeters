@@ -1,5 +1,12 @@
 name: Publish Quarto site to GitHub Pages
 
+- name: Publish to GitHub Pages
+  uses: peaceiris/actions-gh-pages@v3
+  with:
+    github_token: ${{ secrets.GITHUB_TOKEN }}
+    publish_dir: _site
+    publish_branch: gh-pages   # 👈 add this line
+
 on:
   push:
     branches: [ main ]   # Deploy whenever you push to main
@@ -34,5 +41,6 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: _site
+          publish_branch: gh-pages
           #cname: mydomain.com    # 👈 replace with your domain
 
