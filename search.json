@@ -123,21 +123,21 @@
     "href": "dashboards.html#running-dashboard",
     "title": "Dashboards",
     "section": "🏃 Running Dashboard",
-    "text": "🏃 Running Dashboard\nInteractive dashboard tracking heart zones and kilometer splits from running data. The outputted images can be downloaded locally.\n🧑‍💻 The code used can be viewed from my Github"
+    "text": "🏃 Running Dashboard\nInteractive dashboard tracking heart zones and kilometer splits from running data. The outputted images can be downloaded locally.\n📊 The dashboard is deployed to shinyapps.io here\n🧑‍💻 The code used can be viewed from my Github"
   },
   {
     "objectID": "dashboards.html#fpl-dashboard1",
     "href": "dashboards.html#fpl-dashboard1",
     "title": "Dashboards",
     "section": "🥇 FPL Desktop Dashboard",
-    "text": "🥇 FPL Desktop Dashboard\nInteractive dashboard tracking player form, mini-league data, fixture difficulty and much more!\n🧑‍💻 The code used can be viewed from my Github"
+    "text": "🥇 FPL Desktop Dashboard\nInteractive dashboard tracking player form, mini-league data, fixture difficulty and much more!\n📊 The dashboard is deployed to shinyapps.io here\n🧑‍💻 The code used can be viewed from my Github"
   },
   {
     "objectID": "dashboards.html#fpl-dashboard2",
     "href": "dashboards.html#fpl-dashboard2",
     "title": "Dashboards",
     "section": "⚙️ Mobile-Friendly FPL Dashboard",
-    "text": "⚙️ Mobile-Friendly FPL Dashboard\nA mobile friendly FPL Shiny App that help users on the go.\n🧑‍💻 The code used can be viewed from my Github"
+    "text": "⚙️ Mobile-Friendly FPL Dashboard\nA mobile friendly FPL Shiny App that help users on the go.\n📊 The dashboard is deployed to shinyapps.io here\n🧑‍💻 The code used can be viewed from my Github"
   },
   {
     "objectID": "about.html",
