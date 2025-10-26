@@ -3,7 +3,29 @@ title: "Dashboards"
 categories: [Data Visualisation, Dashboard, RShiny, Fantasy Premier League]
 ---
 
-As I have worked for multiple years on confidental industry RShiny projects, I've displayed below some personal RShiny projects derived from publically available Fantasy Premier League (FPL) Data.
+As I have worked for multiple years on confidental industry RShiny projects, I've displayed below some personal RShiny projects below:
+
+* [Dashboard 1: 🏃 Running Dashboard](#running-dashboard)
+* [Dashboard 2: 🥇 FPL Desktop Dashboard](#fpl-dashboard1) 
+* [Dashboard 3: ⚙️ Mobile-Friendly FPL Dashboard](#fpl-dashboard2) 
+
+---
+
+# 🏋️ Fitness Dashboards
+
+Interactive RShiny application developed using sample data downloaded from *Garmin Connect*.
+
+---
+
+## 🏃 Running Dashboard {#running-dashboard}
+
+Interactive dashboard tracking heart zones and kilometer splits from **running data**. The outputted images can be downloaded locally.
+
+🧑‍💻 The code used can be viewed from my [Github](https://github.com/andypetes94/fitnessPlotter)
+
+<iframe src="https://andypetes.shinyapps.io/fitnessPlotter/" width="100%" height="600"></iframe>
+
+---
 
 # 🧮 Fantasy Premier League Dashboards
 
@@ -13,14 +35,19 @@ These dashboards showcase RShiny development, data wrangling, and real-time anal
 
 ---
 
-## 🥇 FPL Desktop Dashboard
+## 🥇 FPL Desktop Dashboard {#fpl-dashboard1}
 
-Interactive dashboard tracking player form, value changes, and fixture difficulty and much more!
+Interactive dashboard tracking player form, mini-league data, fixture difficulty and much more!
+
+🧑‍💻 The code used can be viewed from my [Github](https://github.com/andypetes94/fpl-desktop)
 
 <iframe src="https://andypetes.shinyapps.io/FPL_App2/" width="100%" height="600"></iframe>
 
-## ⚙️ Mobile-Friendly Dashboard
+## ⚙️ Mobile-Friendly FPL Dashboard {#fpl-dashboard2}
 
 A mobile friendly FPL Shiny App that help users on the go.
+
+🧑‍💻 The code used can be viewed from my [Github](https://github.com/andypetes94/fpl-mobile)
+
 
 <iframe src="https://andypetes.shinyapps.io/Test_Mobile/" width="100%" height="600"></iframe>

@@ -27,10 +27,16 @@ Explore my data visualisation portfolio, as I showcase *ggplot2* skills in these
 &nbsp;
 
 ## 💪 Section 2: Fitness Visuals {#hyrox-visuals}
-### 🤝 Bar Chart & Line Plot Combination
+### 🏋️ HYROX Combination Plot
 #### Click Image to enlarge 👇
 ![](Visuals/HYROX.Combined.png){.lightbox}
 
+### 🏃 Running Combination Plot
+#### Click Image to enlarge 👇
+![](Visuals/Run.Combined.png){.lightbox}
+
+Code to generate your own running chart can be found here:
+[https://github.com/andypetes94/fitnessPlotter](https://github.com/andypetes94/fitnessPlotter)
 
 &nbsp;
 
