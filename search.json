@@ -88,7 +88,7 @@
     "href": "visualisations.html",
     "title": "Data Visualisation Portfolio",
     "section": "",
-    "text": "Explore my data visualisation portfolio, as I showcase ggplot2 skills in these diverse industries:\n\nSection 1: Finance Visuals\nSection 2: Fitness Visuals\nSection 3: Football Visuals\n\n\n\n\n\n\n\n\nSample Vertical Bar Chart\n\n\n\n\n\n\n\n\nSample Rank Chart\n\n\n\n\n\n\n\n\nSample Chart Combination\n\n\n \n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\nSample Shot Map\n\n\n\n\n\n\n\n\n\n\n\nSample Scatter Plot\n\n\n\n\n\n\n\n\n\n\n\nSample Percentile Plot\n\n\n\n\n\n\n\n\n\n\n\nSample Data Table\n\n\n\n\n\n\n\n\n\n\n\nSample JitterChart\n\n\n\n\n\n\n\n\n\n\n\nSample Minutes Matrix\n\n\n\n\n\n\n\n\n\n\n\nSample Cumulative Points Plot\n\n\n\n\n\n\n\n\n\n\n\n\n\nSample Trend Graph"
+    "text": "Explore my data visualisation portfolio, as I showcase ggplot2 skills in these diverse industries:\n\nSection 1: Finance Visuals\nSection 2: Fitness Visuals\nSection 3: Football Visuals\n\n\n\n\n\n\n\n\nSample Vertical Bar Chart\n\n\n\n\n\n\n\n\nSample Rank Chart\n\n\n\n\n\n\n\n\nSample Chart Combination\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCode to generate your own running chart can be found here: https://github.com/andypetes94/fitnessPlotter\n \n\n\n\n\n\n\n\n\n\n\n\n\nSample Shot Map\n\n\n\n\n\n\n\n\n\n\n\nSample Scatter Plot\n\n\n\n\n\n\n\n\n\n\n\nSample Percentile Plot\n\n\n\n\n\n\n\n\n\n\n\nSample Data Table\n\n\n\n\n\n\n\n\n\n\n\nSample JitterChart\n\n\n\n\n\n\n\n\n\n\n\nSample Minutes Matrix\n\n\n\n\n\n\n\n\n\n\n\nSample Cumulative Points Plot\n\n\n\n\n\n\n\n\n\n\n\n\n\nSample Trend Graph"
   },
   {
     "objectID": "visualisations.html#finance-visuals",
@@ -96,6 +96,13 @@
     "title": "Data Visualisation Portfolio",
     "section": "",
     "text": "Sample Vertical Bar Chart\n\n\n\n\n\n\n\n\nSample Rank Chart\n\n\n\n\n\n\n\n\nSample Chart Combination"
+  },
+  {
+    "objectID": "visualisations.html#hyrox-visuals",
+    "href": "visualisations.html#hyrox-visuals",
+    "title": "Data Visualisation Portfolio",
+    "section": "",
+    "text": "Code to generate your own running chart can be found here: https://github.com/andypetes94/fitnessPlotter"
   },
   {
     "objectID": "visualisations.html#football-visuals",
@@ -109,21 +116,28 @@
     "href": "dashboards.html",
     "title": "Dashboards",
     "section": "",
-    "text": "As I have worked for multiple years on confidental industry RShiny projects, I’ve displayed below some personal RShiny projects derived from publically available Fantasy Premier League (FPL) Data."
+    "text": "As I have worked for multiple years on confidental industry RShiny projects, I’ve displayed below some personal RShiny projects below:"
   },
   {
-    "objectID": "dashboards.html#fpl-desktop-dashboard",
-    "href": "dashboards.html#fpl-desktop-dashboard",
+    "objectID": "dashboards.html#running-dashboard",
+    "href": "dashboards.html#running-dashboard",
+    "title": "Dashboards",
+    "section": "🏃 Running Dashboard",
+    "text": "🏃 Running Dashboard\nInteractive dashboard tracking heart zones and kilometer splits from running data. The outputted images can be downloaded locally.\n🧑‍💻 The code used can be viewed from my Github"
+  },
+  {
+    "objectID": "dashboards.html#fpl-dashboard1",
+    "href": "dashboards.html#fpl-dashboard1",
     "title": "Dashboards",
     "section": "🥇 FPL Desktop Dashboard",
-    "text": "🥇 FPL Desktop Dashboard\nInteractive dashboard tracking player form, value changes, and fixture difficulty and much more!"
+    "text": "🥇 FPL Desktop Dashboard\nInteractive dashboard tracking player form, mini-league data, fixture difficulty and much more!\n🧑‍💻 The code used can be viewed from my Github"
   },
   {
-    "objectID": "dashboards.html#mobile-friendly-dashboard",
-    "href": "dashboards.html#mobile-friendly-dashboard",
+    "objectID": "dashboards.html#fpl-dashboard2",
+    "href": "dashboards.html#fpl-dashboard2",
     "title": "Dashboards",
-    "section": "⚙️ Mobile-Friendly Dashboard",
-    "text": "⚙️ Mobile-Friendly Dashboard\nA mobile friendly FPL Shiny App that help users on the go."
+    "section": "⚙️ Mobile-Friendly FPL Dashboard",
+    "text": "⚙️ Mobile-Friendly FPL Dashboard\nA mobile friendly FPL Shiny App that help users on the go.\n🧑‍💻 The code used can be viewed from my Github"
   },
   {
     "objectID": "about.html",
