@@ -21,6 +21,8 @@ Interactive RShiny application developed using sample data downloaded from *Garm
 
 Interactive dashboard tracking heart zones and kilometer splits from **running data**. The outputted images can be downloaded locally.
 
+📊 The dashboard is deployed to *shinyapps.io*  [here](https://andypetes.shinyapps.io/fitnessPlotter/)
+
 🧑‍💻 The code used can be viewed from my [Github](https://github.com/andypetes94/fitnessPlotter)
 
 <iframe src="https://andypetes.shinyapps.io/fitnessPlotter/" width="100%" height="600"></iframe>
@@ -39,6 +41,8 @@ These dashboards showcase RShiny development, data wrangling, and real-time anal
 
 Interactive dashboard tracking player form, mini-league data, fixture difficulty and much more!
 
+📊 The dashboard is deployed to *shinyapps.io*  [here](https://andypetes.shinyapps.io/FPL_App2/)
+
 🧑‍💻 The code used can be viewed from my [Github](https://github.com/andypetes94/fpl-desktop)
 
 <iframe src="https://andypetes.shinyapps.io/FPL_App2/" width="100%" height="600"></iframe>
@@ -46,6 +50,8 @@ Interactive dashboard tracking player form, mini-league data, fixture difficulty
 ## ⚙️ Mobile-Friendly FPL Dashboard {#fpl-dashboard2}
 
 A mobile friendly FPL Shiny App that help users on the go.
+
+📊 The dashboard is deployed to *shinyapps.io*  [here](http://andypetes.shinyapps.io/Test_Mobile)
 
 🧑‍💻 The code used can be viewed from my [Github](https://github.com/andypetes94/fpl-mobile)
 
