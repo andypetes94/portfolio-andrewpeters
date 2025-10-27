@@ -17,8 +17,8 @@ Have a look through my **Featured Projects** below which encompass the following
 
 * 📊 Data Visualisation Redesign
 * ⚽️ Football Analytics
-* 👨‍💻 RShiny Development
 * 📈 Data Visualisation Portfolio
+* 👨‍💻 RShiny Dashboard Development
 
 <!-- ::: {.btn-container} -->
 <!-- [View Data Visualisation Portfolio](visualisations.qmd){.btn .btn-outline-secondary} -->
@@ -43,7 +43,7 @@ Want to see my data visualisation portfolio at the click of button? Click the li
 
 ![](images/Euro.png){.featured-img}
 
-### [RShiny Development](dashboards.qmd)
+### [RShiny Dashboard Development](dashboards.qmd)
 Interactive Fantasy Premier League analytics dashboards built in RShiny, focusing on player performance, mini-league data, fixture difficulty and more..
 
 ![](images/Minutes_Matrix.png){.featured-img width=60% fig-align="center"}
