@@ -81,7 +81,7 @@
     "href": "index.html#featured-projects",
     "title": "Home",
     "section": "Featured Projects",
-    "text": "Featured Projects\n\nData Visualisation Redesign\nBefore-and-after examples of improved chart quality using real-life working examples. This project also details a structured method to approach chart design and also provides a sample data visualisation style guide that I helped design.\n\n\n\nFootball Analytics\nData-driven insights into tactical performance and decision-making in elite football — integrating visualisation, machine learning, and event data analysis.\n\n\n\nData Visualisation Portfolio\nWant to see my data visualisation portfolio at the click of button? Click the link above! 👆\n\n\n\nRShiny Dashboard Development\nInteractive Fantasy Premier League analytics dashboards built in RShiny, focusing on player performance, mini-league data, fixture difficulty and more.."
+    "text": "Featured Projects\n\nData Visualisation Redesign\nA showcase of real-world chart redesigns — transforming cluttered visuals into clear stories. The project shares my structured approach to visualisation design and includes a sample Style Guide I helped produce to standardise best practices.\n\n\n\nFootball Analytics\nData-driven insights into tactical performance in elite football — integrating visualisation with data science techniques. This section contains my research published in peer-reviewed journals.\n\n\n\nData Visualisation Portfolio\nA visual exploration of data across three worlds — Finance, Fitness, and Football. Each section illustrates how clear, purposeful design can reveal the story behind the numbers — from exploring interest rates to performance analytics and fitness insights.\n\n\n\nRShiny Dashboard Development\nInteractive Fantasy Premier League analytics dashboards built in RShiny, focusing on player performance, mini-league data, fixture difficulty and more.."
   },
   {
     "objectID": "visualisations.html",
@@ -116,7 +116,7 @@
     "href": "dashboards.html",
     "title": "Dashboards",
     "section": "",
-    "text": "As I have worked for multiple years on confidental industry RShiny projects, I’ve displayed below some personal RShiny projects below:"
+    "text": "As I have worked for multiple years on confidental industry RShiny projects, I’ve displayed below some personal RShiny projects:"
   },
   {
     "objectID": "dashboards.html#running-dashboard",
