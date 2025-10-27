@@ -29,17 +29,18 @@ Have a look through my **Featured Projects** below which encompass the following
 ## Featured Projects
 
 ### [Data Visualisation Redesign](redesign.qmd)
-Before-and-after examples of improved chart quality using real-life working examples. This project also details a structured method to approach chart design and also provides a sample data visualisation style guide that I helped design.
+A showcase of real-world chart redesigns — transforming cluttered visuals into clear stories. The project shares my structured approach to visualisation design and includes a sample *Style Guide* I helped produce to standardise best practices.
 
 ![](images/after_1.png){.featured-img}
 
 ### [Football Analytics](publications.qmd)
-Data-driven insights into tactical performance and decision-making in elite football — integrating visualisation, machine learning, and event data analysis.
+Data-driven insights into tactical performance in elite football — integrating visualisation with data science techniques. This section contains my research published in peer-reviewed journals.
 
 ![](images/Rest_Defence.jpg){.featured-img}
 
 ### [Data Visualisation Portfolio](visualisations.qmd)
-Want to see my data visualisation portfolio at the click of button? Click the link above! 👆
+A visual exploration of data across three worlds — **Finance, Fitness, and Football**.
+Each section illustrates how clear, purposeful design can reveal the story behind the numbers — from exploring interest rates to performance analytics and fitness insights.
 
 ![](images/Euro.png){.featured-img}
 

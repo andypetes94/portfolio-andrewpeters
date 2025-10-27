@@ -3,7 +3,7 @@ title: "Dashboards"
 categories: [Data Visualisation, Dashboard, RShiny, Fantasy Premier League]
 ---
 
-As I have worked for multiple years on confidental industry RShiny projects, I've displayed below some personal RShiny projects below:
+As I have worked for multiple years on confidental industry RShiny projects, I've displayed below some personal RShiny projects:
 
 * [Dashboard 1: 🏃 Running Dashboard](#running-dashboard)
 * [Dashboard 2: 🥇 FPL Desktop Dashboard](#fpl-dashboard1) 
