@@ -24,8 +24,6 @@ A rule-based approach to classify counterpressing – analysis of its risks and 
 
 [Read Paper →](https://www.tandfonline.com/doi/full/10.1080/24748668.2025.2473799)
 
-[Link To GitHub 🔗](https://github.com/andypetes94/ExpectedPassTurnovers/)
-
 
 **Summary:**  
 Defensive Transition was be assessed by measuring counterpressure success against instances of shot and territory (counter-attack) concession. 
@@ -41,6 +39,8 @@ The number of players occupying the *Rest Defence* zone was found to have a sign
 Expected Pass Turnovers (xPT) - a machine learning approach to analyse turnovers from passing events in football
 
 [Read Paper →](https://www.tandfonline.com/doi/full/10.1080/02640414.2024.2379697)
+
+[Link To GitHub 🔗](https://github.com/andypetes94/ExpectedPassTurnovers/)
 
 **Summary:**  
 The aim of this study was to create a novel metric, *Expected Pass Turnovers* (xPT), that could evaluate possession retention from player-passing events in football. 
