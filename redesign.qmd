@@ -63,7 +63,7 @@ Three separate charts describing HYROX Performance.
 Combination of three separate charts into a clean, single graphic.
 
 #### Click Image to enlarge 👇
-![](Visuals/HYROX.Combined.RunSplitsAdded.png){.lightbox}
+![](Visuals/HYROX.Combined.png){.lightbox}
 
 &nbsp;
 
