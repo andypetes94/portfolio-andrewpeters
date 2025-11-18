@@ -88,7 +88,7 @@
     "href": "visualisations.html",
     "title": "Data Visualisation Portfolio",
     "section": "",
-    "text": "Explore my data visualisation portfolio, as I showcase ggplot2 skills in these diverse industries:\n\nSection 1: Finance Visuals\nSection 2: Fitness Visuals\nSection 3: Football Visuals\n\n\n\n\n\n\n\n\nSample Vertical Bar Chart\n\n\n\n\n\n\n\n\nSample Rank Chart\n\n\n\n\n\n\n\n\nSample Chart Combination\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCode to generate your own running chart can be found here: https://github.com/andypetes94/fitnessPlotter\n \n\n\n\n\n\n\n\n\n\n\n\n\nSample Shot Map\n\n\n\n\n\n\n\n\n\n\n\nSample Scatter Plot\n\n\n\n\n\n\n\n\n\n\n\nSample Percentile Plot\n\n\n\n\n\n\n\n\n\n\n\nSample Data Table\n\n\n\n\n\n\n\n\n\n\n\nSample JitterChart\n\n\n\n\n\n\n\n\n\n\n\nSample Minutes Matrix\n\n\n\n\n\n\n\n\n\n\n\nSample Cumulative Points Plot\n\n\n\n\n\n\n\n\n\n\n\n\n\nSample Trend Graph"
+    "text": "Explore my data visualisation portfolio, as I showcase ggplot2 skills in these diverse industries:\n\nSection 1: Finance Visuals\nSection 2: Fitness Visuals\nSection 3: Football Visuals\n\n\n\n\n\n\n\n\nSample Vertical Bar Chart\n\n\n\n\n\n\n\n\nSample Rank Chart\n\n\n\n\n\n\n\n\nSample Chart Combination\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n ### 🏋🏻‍♂️ Circuit Training Plot #### Click Image to enlarge 👇 \n\n\n\n\n\n\n👨‍💻 Code to generate your own HYROX, Cardio and Running Charts: https://github.com/andypetes94/fitnessPlotter\n\n \n\n\n\n\n\n\n\n\n\n\nSample Shot Map\n\n\n\n\n\n\n\n\n\n\n\nSample Scatter Plot\n\n\n\n\n\n\n\n\n\n\n\nSample Percentile Plot\n\n\n\n\n\n\n\n\n\n\n\nSample Data Table\n\n\n\n\n\n\n\n\n\n\n\nSample JitterChart\n\n\n\n\n\n\n\n\n\n\n\nSample Minutes Matrix\n\n\n\n\n\n\n\n\n\n\n\nSample Cumulative Points Plot\n\n\n\n\n\n\n\n\n\n\n\n\n\nSample Trend Graph"
   },
   {
     "objectID": "visualisations.html#finance-visuals",
@@ -102,7 +102,14 @@
     "href": "visualisations.html#hyrox-visuals",
     "title": "Data Visualisation Portfolio",
     "section": "",
-    "text": "Code to generate your own running chart can be found here: https://github.com/andypetes94/fitnessPlotter"
+    "text": "### 🏋🏻‍♂️ Circuit Training Plot #### Click Image to enlarge 👇"
+  },
+  {
+    "objectID": "visualisations.html#rshiny-app",
+    "href": "visualisations.html#rshiny-app",
+    "title": "Data Visualisation Portfolio",
+    "section": "",
+    "text": "👨‍💻 Code to generate your own HYROX, Cardio and Running Charts: https://github.com/andypetes94/fitnessPlotter"
   },
   {
     "objectID": "visualisations.html#football-visuals",
