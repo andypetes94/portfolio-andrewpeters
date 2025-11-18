@@ -34,6 +34,7 @@ Explore my data visualisation portfolio, as I showcase *ggplot2* skills in these
 ### 🏃 Running Combination Plot
 #### Click Image to enlarge 👇
 ![](Visuals/Run.Combined.png){.lightbox}
+
 ### 🏋🏻‍♂️ Circuit Training Plot
 #### Click Image to enlarge 👇
 ![](Visuals/Cardio_Visual.png){.lightbox}
@@ -46,7 +47,6 @@ Explore my data visualisation portfolio, as I showcase *ggplot2* skills in these
 [https://github.com/andypetes94/fitnessPlotter](https://github.com/andypetes94/fitnessPlotter)
 
 
---------------------------
 
 &nbsp;
 
