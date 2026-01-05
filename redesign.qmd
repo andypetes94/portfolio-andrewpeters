@@ -45,6 +45,11 @@ Redesign Projects Include:
 
 ## 🏃‍♂️ Example 3: Personal HYROX Data {#example3-redesign}
 
+
+### 📊 Nightingale Article
+
+This re-design was featured in the global data visualisation magazine Nightingale. You can read my featured article [here](https://nightingaledvs.com/from-metrics-to-mood/)
+
 ### ⮐ Before
 
 Three separate charts describing HYROX Performance.

@@ -49,6 +49,27 @@ A logistic mixed-effects model was implemented to attribute the probability of e
 
 ![](images/Passing_Turnovers.jpg){width=60% fig-align="center"}
 
+### 📊 3. Defining Pressing Roles in Football
+*International Journal of Computer Science in Sport (2025)*
+
+A semi-supervised machine learning approach to identifying and comparing pressing roles beyond traditional positional labels.
+
+[Read Paper →](https://doi.org/10.2478/ijcss-2025-0013)
+
+**Summary:**
+This study proposed a data-driven framework using Shapley values, dimensionality reduction (UMAP), and clustering to objectively classify pressing roles in football.
+
+The approach enables:
+
+- Identification of distinct pressing profiles  
+- Similarity searches between players  
+- Longitudinal analysis of how pressing roles evolve over time  
+
+
+The framework has direct applications in performance analysis, tactical profiling, and player recruitment.
+
+![](images/UMAP_Roles.png){width=60% fig-align="center"}
+
 ## 🎤 Conference Presentation
 
 I presented **“A Machine Learning Approach to Identify Pressing Targets in Football”** at the **13th World Congress of Performance Analysis of Sport (2022)**.
