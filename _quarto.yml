@@ -5,9 +5,9 @@ project:
 website:
   title: "Andrew Peters"
   description: "Transforming complex data into clear, actionable insights."
-  favicon: images/Logo_Opaque.png
+  favicon: images/logo.png
   navbar:
-    logo: images/Logo_Opaque.png
+    logo: images/logo.png
     left:
       - href: index.qmd
         text: Home
