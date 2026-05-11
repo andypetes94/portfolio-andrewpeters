@@ -7,7 +7,7 @@ I was fortunate enough to work for Leicester City Football club for 3 years. (�
 
 During this time, I was involved in managing back-end and front-end operations for analytics initiatives across the **Performance Analysis, Sports Science and Recruitment Departments**. I delivered frequent **RMarkdown** & PDF reports and deployed **RShiny** & **Tableau** dashboards acorss all of these departments.
 
-In addition, I investigated the relationship between *Rest Defence* and Counterpressing ([1. Counterpressing in Football](#counterpressing-id)), aswell as developed machine learning methods to analyse passing events ([2. Modelling Passing in Football](#xPT-id)).
+In addition, I investigated the relationship between *Rest Defence* and Counterpressing ([1. Counterpressing in Football](#counterpressing-id)); developed machine learning methods to analyse passing events ([2. Modelling Passing in Football](#xPT-id)); used a semi-supervised machine learning method to characterise pressing roles in football ([3. Defining Pressing Roles in Football](#pressing-roles-id)); applied pass models to demonstrate their applications within a professional football environment ([4. Applying an Expected Pass Turnovers Model to Inform Pressing Strategies in Professional Football](#applications-id))
 
 # 📚 Publications & Research
 
@@ -49,7 +49,7 @@ A logistic mixed-effects model was implemented to attribute the probability of e
 
 ![](images/Passing_Turnovers.jpg){width=60% fig-align="center"}
 
-### 📊 3. Defining Pressing Roles in Football
+### 📊 3. Defining Pressing Roles in Football {#pressing-roles-id}
 *International Journal of Computer Science in Sport (2025)*
 
 A semi-supervised machine learning approach to identifying and comparing pressing roles beyond traditional positional labels.
@@ -69,6 +69,27 @@ The approach enables:
 The framework has direct applications in performance analysis, tactical profiling, and player recruitment.
 
 ![](images/UMAP_Roles.png){width=100% fig-align="center"}
+### 🧠 4. Applying an Expected Pass Turnovers Model to Inform Pressing Strategies in Professional Football {#applications-id}
+*International Journal of Performance Analysis in Sport (2026)*
+
+Applying an Expected Pass Turnovers model to inform pressing strategies in professional football.
+
+[Read Paper →](https://www.tandfonline.com/doi/full/10.1080/24748668.2026.2671547)
+
+[Link To GitHub 🔗](https://github.com/andypetes94/ExpectedPassTurnovers)
+
+**Summary:**
+This study extends the original Expected Pass Turnovers (xPT) framework by showing how it can be used not only to assess passing risk, but also to inform pressing strategy in professional football.
+
+The model identifies:
+
+- Players and positions that may be suitable pressing targets,
+- Spatial zones where teams are most vulnerable to turnover,
+- Defensive players who force turnovers more effectively than expected through a complementary metric, Expected Pass Turnovers Forced (xPTF).
+
+A key contribution of the paper is that the full pipeline is fully reproducible, with code made openly available for practitioners, analysts, and researchers to adapt and apply in their own workflows.
+
+![](images/example_team_turnover_plot.png){width=100% fig-align="center"}
 
 ## 🎤 Conference Presentation
 
@@ -95,20 +116,22 @@ This presentation showcased how applied data science methods can translate direc
 
 ---
 
+## 🔬 Other Publications 
+### 🧬 Inferring Somatic Mutations from RNA-Seq Data
 
-<!-- ### 🧬 Inferring Somatic Mutations from RNA-Seq Data -->
+*Genetics (2023)*
 
-<!-- *Genetics (2023)*   -->
+Somatic mutations inferred from RNA-seq data highlight the contribution of replication timing to mutation rate variation in a model plant.
 
-<!-- Somatic mutations inferred from RNA-seq data highlight the contribution of replication timing to mutation rate variation in a model plant. -->
+[Read Paper →](https://academic.oup.com/genetics/article/225/2/iyad128/7224426?login=false)
 
-<!-- [Read Paper →](https://academic.oup.com/genetics/article/225/2/iyad128/7224426?login=false) -->
+**Summary:**
+Variation in the rates and characteristics of germline and somatic mutations across the genome of an organism is informative about DNA damage and repair processes and can also shed light on aspects of organism physiology and evolution.
 
-<!-- **Summary:**   -->
-<!-- Variation in the rates and characteristics of germline and somatic mutations across the genome of an organism is informative about DNA damage and repair processes and can also shed light on aspects of organism physiology and evolution.  -->
+The wide range of genomic data types available for A. thaliana enabled us to investigate the relationships of multiple genomic features with the variation in the somatic mutation rate across the genome of this model plant.
 
-<!-- The wide range of genomic data types available for A. thaliana enabled us to investigate the relationships of multiple genomic features with the variation in the somatic mutation rate across the genome of this model plant.  -->
+We observed that late replicated regions showed evidence of an elevated rate of somatic mutation compared to genomic regions that are replicated early. We identified transcriptional strand asymmetries, consistent with the effects of transcription-coupled damage and/or repair.
 
-<!-- We observed that late replicated regions showed evidence of an elevated rate of somatic mutation compared to genomic regions that are replicated early. We identified transcriptional strand asymmetries, consistent with the effects of transcription-coupled damage and/or repair.  -->
+![](images/genetics.jpg){width=60% fig-align="center"}
 
-<!-- ![](images/genetics.jpg){width=60% fig-align="center"} -->
+---
