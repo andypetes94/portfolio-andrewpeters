@@ -1,52 +1,10 @@
 [
   {
-    "objectID": "redesign.html",
-    "href": "redesign.html",
-    "title": "Data Visualisation Redesign",
-    "section": "",
-    "text": "I have redesigned visuals which improved clarity, accessibility and enhanced storytelling impact. These first two examples were made publicly available and experienced enhanced social media interaction and visibility than their predecessors.\nThe third example was a personal project, as I attempted to delve into the data behind my personal HYROX performance.\nRedesign Projects Include:\n\n🏠 Example 1: Household Net Wealth\n🏦 Example 2: Loan Interest Rates\n🏃‍♂️ Example 3: Personal HYROX Data\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\nThis re-design was featured in the global data visualisation magazine Nightingale. You can read my featured article here\n\n\n\nThree separate charts describing HYROX Performance.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCombination of three separate charts into a clean, single graphic.\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nIn 2024, I created a Data Visualization Style Guide for the Central Bank of Ireland, developed in collaboration with the Communications department.\nThis guide formalised the institution’s approach to visual communication — ensuring that charts and dashboards across all departments followed a consistent, accessible, and design-informed standard.\n\nPurpose of the Guide:\n\nEstablish color palettes aligned with accessibility and brand identity\n\nPromote best practices for labeling, annotation, and storytelling\n\nStandardise visual output across RShiny and publication workflows\n\nThe guide has since been implemented to elevate visual standards and ensure chart consistency across the organisation.\n📄 View the Data Visualisation Style Guide (PDF)\n \n\n\n\nAlongside my redesign projects, I have designed and delivered numerous data visualisation workshops, ranging from 1-hour sessions to 3-hour deep dives, catering to both technical and non-technical audiences.\n\n\n\nThese sessions focus on developing hands-on skills using ggplot2 and the grammar of graphics framework.\nParticipants learn to:\n\nBuild visuals layer by layer using R and ggplot2\n\nCustomise color, theme, and layout for professional-quality outputs\n\nApply design principles directly within R scripts\n\nUse reproducible workflows to standardize internal reporting visuals\n\nExample sessions include:\n\n“From Data to Design: An Introduction to ggplot2”\n\n\n\n\n\nThese sessions focus on conceptual understanding and visual storytelling.\nTopics include:\n\nThe do’s and dont’s in data visualisation\nResearch-based appraoches that lead to greater chart engagement\nApplying best practices to enable charts of greater clarity\n\nExample sessions include:\n\n“Design Thinking for Analysts”\n\nI have delivered these workshops within the Central Bank of Ireland where they have helped elevate in-house visualisation standards and design literacy.\n\n\n\n\n\n\nEffective visualization = design + communication\n\nRedesigning a chart is about understanding audience perception and context, not just aesthetics\n\nTeaching others reinforces strong habits of clarity, simplicity, and storytelling in every visualisation\n\n\n\n\n\nThis section of my portfolio reflects not only my ability to create impactful visuals, but also to teach and empower others to do the same — helping teams communicate data more clearly, confidently, and creatively."
-  },
-  {
-    "objectID": "redesign.html#example3-redesign",
-    "href": "redesign.html#example3-redesign",
-    "title": "Data Visualisation Redesign",
-    "section": "",
-    "text": "This re-design was featured in the global data visualisation magazine Nightingale. You can read my featured article here\n\n\n\nThree separate charts describing HYROX Performance.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCombination of three separate charts into a clean, single graphic."
-  },
-  {
-    "objectID": "redesign.html#data-visualization-style-guide-creation",
-    "href": "redesign.html#data-visualization-style-guide-creation",
-    "title": "Data Visualisation Redesign",
-    "section": "",
-    "text": "In 2024, I created a Data Visualization Style Guide for the Central Bank of Ireland, developed in collaboration with the Communications department.\nThis guide formalised the institution’s approach to visual communication — ensuring that charts and dashboards across all departments followed a consistent, accessible, and design-informed standard.\n\nPurpose of the Guide:\n\nEstablish color palettes aligned with accessibility and brand identity\n\nPromote best practices for labeling, annotation, and storytelling\n\nStandardise visual output across RShiny and publication workflows\n\nThe guide has since been implemented to elevate visual standards and ensure chart consistency across the organisation.\n📄 View the Data Visualisation Style Guide (PDF)"
-  },
-  {
-    "objectID": "redesign.html#teaching-workshops",
-    "href": "redesign.html#teaching-workshops",
-    "title": "Data Visualisation Redesign",
-    "section": "",
-    "text": "Alongside my redesign projects, I have designed and delivered numerous data visualisation workshops, ranging from 1-hour sessions to 3-hour deep dives, catering to both technical and non-technical audiences.\n\n\n\nThese sessions focus on developing hands-on skills using ggplot2 and the grammar of graphics framework.\nParticipants learn to:\n\nBuild visuals layer by layer using R and ggplot2\n\nCustomise color, theme, and layout for professional-quality outputs\n\nApply design principles directly within R scripts\n\nUse reproducible workflows to standardize internal reporting visuals\n\nExample sessions include:\n\n“From Data to Design: An Introduction to ggplot2”\n\n\n\n\n\nThese sessions focus on conceptual understanding and visual storytelling.\nTopics include:\n\nThe do’s and dont’s in data visualisation\nResearch-based appraoches that lead to greater chart engagement\nApplying best practices to enable charts of greater clarity\n\nExample sessions include:\n\n“Design Thinking for Analysts”\n\nI have delivered these workshops within the Central Bank of Ireland where they have helped elevate in-house visualisation standards and design literacy."
-  },
-  {
-    "objectID": "redesign.html#key-takeaways",
-    "href": "redesign.html#key-takeaways",
-    "title": "Data Visualisation Redesign",
-    "section": "",
-    "text": "Effective visualization = design + communication\n\nRedesigning a chart is about understanding audience perception and context, not just aesthetics\n\nTeaching others reinforces strong habits of clarity, simplicity, and storytelling in every visualisation"
-  },
-  {
-    "objectID": "redesign.html#summary",
-    "href": "redesign.html#summary",
-    "title": "Data Visualisation Redesign",
-    "section": "",
-    "text": "This section of my portfolio reflects not only my ability to create impactful visuals, but also to teach and empower others to do the same — helping teams communicate data more clearly, confidently, and creatively."
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Football Analytics",
     "section": "",
-    "text": "I was fortunate enough to work for Leicester City Football club for 3 years. (→ Professional Experience)\nDuring this time, I was involved in managing back-end and front-end operations for analytics initiatives across the Performance Analysis, Sports Science and Recruitment Departments. I delivered frequent RMarkdown & PDF reports and deployed RShiny & Tableau dashboards acorss all of these departments.\nIn addition, I investigated the relationship between Rest Defence and Counterpressing (1. Counterpressing in Football), aswell as developed machine learning methods to analyse passing events (2. Modelling Passing in Football)."
+    "text": "I was fortunate enough to work for Leicester City Football club for 3 years. (→ Professional Experience)\nDuring this time, I was involved in managing back-end and front-end operations for analytics initiatives across the Performance Analysis, Sports Science and Recruitment Departments. I delivered frequent RMarkdown & PDF reports and deployed RShiny & Tableau dashboards acorss all of these departments.\nIn addition, I investigated the relationship between Rest Defence and Counterpressing (1. Counterpressing in Football); developed machine learning methods to analyse passing events (2. Modelling Passing in Football); used a semi-supervised machine learning method to characterise pressing roles in football (3. Defining Pressing Roles in Football); applied pass models to demonstrate their applications within a professional football environment (4. Applying an Expected Pass Turnovers Model to Inform Pressing Strategies in Professional Football)"
   },
   {
     "objectID": "publications.html#conference-presentation",
@@ -70,81 +28,11 @@
     "text": "🔗 Related Football Analytics Work\n\nFantasy Premier League Dashboards →"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "I’m Andrew Peters (PhD), a Data Scientist specialising in Data Visualisation, RShiny development and applied machine learning.\nMy work bridges sports analytics, finance, and pharmaceutical R&D — turning complex datasets into clear, actionable insights.\nHave a look through my Featured Projects below which encompass the following areas:"
-  },
-  {
-    "objectID": "index.html#featured-projects",
-    "href": "index.html#featured-projects",
-    "title": "Home",
-    "section": "Featured Projects",
-    "text": "Featured Projects\n\nData Visualisation Redesign\nA showcase of real-world chart redesigns — transforming cluttered visuals into clear stories. The project shares my structured approach to visualisation design and includes a sample Style Guide I helped produce to standardise best practices.\n\n\n\nFootball Analytics\nData-driven insights into tactical performance in elite football — integrating visualisation with data science techniques. This section contains my research published in peer-reviewed journals.\n\n\n\nData Visualisation Portfolio\nA visual exploration of data across three worlds — Finance, Fitness, and Football. Each section illustrates how clear, purposeful design can reveal the story behind the numbers — from exploring interest rates to performance analytics and fitness insights.\n\n\n\nRShiny Dashboard Development\nInteractive Fantasy Premier League analytics dashboards built in RShiny, focusing on player performance, mini-league data, fixture difficulty and more.."
-  },
-  {
-    "objectID": "visualisations.html",
-    "href": "visualisations.html",
-    "title": "Data Visualisation Portfolio",
-    "section": "",
-    "text": "Explore my data visualisation portfolio, as I showcase ggplot2 skills in these diverse industries:\n\nSection 1: Finance Visuals\nSection 2: Fitness Visuals\nSection 3: Football Visuals\n\n\n\n\n\n\n\n\nSample Vertical Bar Chart\n\n\n\n\n\n\n\n\nSample Rank Chart\n\n\n\n\n\n\n\n\nSample Chart Combination\n\n\n \n\n\n\n\n\n\n\n\nThis image was featured in the global data visualisation magazine Nightingale. You can read my featured article here\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n👨‍💻 Code to generate your own HYROX, Cardio and Running Charts: https://github.com/andypetes94/fitnessPlotter\n \n\n\n\n\n\n\n\n\n\n\nSample Shot Map\n\n\n\n\n\n\n\n\n\n\n\nSample Scatter Plot\n\n\n\n\n\n\n\n\n\n\n\nSample Percentile Plot\n\n\n\n\n\n\n\n\n\n\n\nSample Data Table\n\n\n\n\n\n\n\n\n\n\n\nSample JitterChart\n\n\n\n\n\n\n\n\n\n\n\nSample Minutes Matrix\n\n\n\n\n\n\n\n\n\n\n\nSample Cumulative Points Plot\n\n\n\n\n\n\n\n\n\n\n\n\n\nSample Trend Graph"
-  },
-  {
-    "objectID": "visualisations.html#finance-visuals",
-    "href": "visualisations.html#finance-visuals",
-    "title": "Data Visualisation Portfolio",
-    "section": "",
-    "text": "Sample Vertical Bar Chart\n\n\n\n\n\n\n\n\nSample Rank Chart\n\n\n\n\n\n\n\n\nSample Chart Combination"
-  },
-  {
-    "objectID": "visualisations.html#hyrox-visuals",
-    "href": "visualisations.html#hyrox-visuals",
-    "title": "Data Visualisation Portfolio",
-    "section": "",
-    "text": "This image was featured in the global data visualisation magazine Nightingale. You can read my featured article here"
-  },
-  {
-    "objectID": "visualisations.html#rshiny-app",
-    "href": "visualisations.html#rshiny-app",
-    "title": "Data Visualisation Portfolio",
-    "section": "",
-    "text": "👨‍💻 Code to generate your own HYROX, Cardio and Running Charts: https://github.com/andypetes94/fitnessPlotter"
-  },
-  {
-    "objectID": "visualisations.html#football-visuals",
-    "href": "visualisations.html#football-visuals",
-    "title": "Data Visualisation Portfolio",
-    "section": "",
-    "text": "Sample Shot Map\n\n\n\n\n\n\n\n\n\n\n\nSample Scatter Plot\n\n\n\n\n\n\n\n\n\n\n\nSample Percentile Plot\n\n\n\n\n\n\n\n\n\n\n\nSample Data Table\n\n\n\n\n\n\n\n\n\n\n\nSample JitterChart\n\n\n\n\n\n\n\n\n\n\n\nSample Minutes Matrix\n\n\n\n\n\n\n\n\n\n\n\nSample Cumulative Points Plot\n\n\n\n\n\n\n\n\n\n\n\n\n\nSample Trend Graph"
-  },
-  {
-    "objectID": "dashboards.html",
-    "href": "dashboards.html",
-    "title": "Dashboards",
-    "section": "",
-    "text": "As I have worked for multiple years on confidental industry RShiny projects, I’ve displayed below some personal RShiny projects:"
-  },
-  {
-    "objectID": "dashboards.html#running-dashboard",
-    "href": "dashboards.html#running-dashboard",
-    "title": "Dashboards",
-    "section": "🏃 Running Dashboard",
-    "text": "🏃 Running Dashboard\nInteractive dashboard tracking heart zones and kilometer splits from running data. The outputted images can be downloaded locally.\n📊 The dashboard is deployed to shinyapps.io here\n🧑‍💻 The code used can be viewed from my Github"
-  },
-  {
-    "objectID": "dashboards.html#fpl-dashboard1",
-    "href": "dashboards.html#fpl-dashboard1",
-    "title": "Dashboards",
-    "section": "🥇 FPL Desktop Dashboard",
-    "text": "🥇 FPL Desktop Dashboard\nInteractive dashboard tracking player form, mini-league data, fixture difficulty and much more!\n📊 The dashboard is deployed to shinyapps.io here\n🧑‍💻 The code used can be viewed from my Github"
-  },
-  {
-    "objectID": "dashboards.html#fpl-dashboard2",
-    "href": "dashboards.html#fpl-dashboard2",
-    "title": "Dashboards",
-    "section": "⚙️ Mobile-Friendly FPL Dashboard",
-    "text": "⚙️ Mobile-Friendly FPL Dashboard\nA mobile friendly FPL Shiny App that help users on the go.\n📊 The dashboard is deployed to shinyapps.io here\n🧑‍💻 The code used can be viewed from my Github"
+    "objectID": "publications.html#other-publications",
+    "href": "publications.html#other-publications",
+    "title": "Football Analytics",
+    "section": "🔬 Other Publications",
+    "text": "🔬 Other Publications\n\n🧬 Inferring Somatic Mutations from RNA-Seq Data\nGenetics (2023)\nSomatic mutations inferred from RNA-seq data highlight the contribution of replication timing to mutation rate variation in a model plant.\nRead Paper →\nSummary: Variation in the rates and characteristics of germline and somatic mutations across the genome of an organism is informative about DNA damage and repair processes and can also shed light on aspects of organism physiology and evolution.\nThe wide range of genomic data types available for A. thaliana enabled us to investigate the relationships of multiple genomic features with the variation in the somatic mutation rate across the genome of this model plant.\nWe observed that late replicated regions showed evidence of an elevated rate of somatic mutation compared to genomic regions that are replicated early. We identified transcriptional strand asymmetries, consistent with the effects of transcription-coupled damage and/or repair."
   },
   {
     "objectID": "about.html",
@@ -201,5 +89,124 @@
     "title": "👋 About Me",
     "section": "",
     "text": "I’m driven by the challenge of making data both insightful and intuitive — building tools and visuals that help others understand complex systems, whether in sport, finance, or science.\nMy mission is simple: combine analytical rigor with design thinking to turn data into understanding."
+  },
+  {
+    "objectID": "redesign.html",
+    "href": "redesign.html",
+    "title": "Data Visualisation Redesign",
+    "section": "",
+    "text": "I have redesigned visuals which improved clarity, accessibility and enhanced storytelling impact. These first two examples were made publicly available and experienced enhanced social media interaction and visibility than their predecessors.\nThe third example was a personal project, as I attempted to delve into the data behind my personal HYROX performance.\nRedesign Projects Include:\n\n🏠 Example 1: Household Net Wealth\n🏦 Example 2: Loan Interest Rates\n🏃‍♂️ Example 3: Personal HYROX Data\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\nThis re-design was featured in the global data visualisation magazine Nightingale. You can read my featured article here\n\n\n\nThree separate charts describing HYROX Performance.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCombination of three separate charts into a clean, single graphic.\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nIn 2024, I created a Data Visualization Style Guide for the Central Bank of Ireland, developed in collaboration with the Communications department.\nThis guide formalised the institution’s approach to visual communication — ensuring that charts and dashboards across all departments followed a consistent, accessible, and design-informed standard.\n\nPurpose of the Guide:\n\nEstablish color palettes aligned with accessibility and brand identity\n\nPromote best practices for labeling, annotation, and storytelling\n\nStandardise visual output across RShiny and publication workflows\n\nThe guide has since been implemented to elevate visual standards and ensure chart consistency across the organisation.\n📄 View the Data Visualisation Style Guide (PDF)\n \n\n\n\nAlongside my redesign projects, I have designed and delivered numerous data visualisation workshops, ranging from 1-hour sessions to 3-hour deep dives, catering to both technical and non-technical audiences.\n\n\n\nThese sessions focus on developing hands-on skills using ggplot2 and the grammar of graphics framework.\nParticipants learn to:\n\nBuild visuals layer by layer using R and ggplot2\n\nCustomise color, theme, and layout for professional-quality outputs\n\nApply design principles directly within R scripts\n\nUse reproducible workflows to standardize internal reporting visuals\n\nExample sessions include:\n\n“From Data to Design: An Introduction to ggplot2”\n\n\n\n\n\nThese sessions focus on conceptual understanding and visual storytelling.\nTopics include:\n\nThe do’s and dont’s in data visualisation\nResearch-based appraoches that lead to greater chart engagement\nApplying best practices to enable charts of greater clarity\n\nExample sessions include:\n\n“Design Thinking for Analysts”\n\nI have delivered these workshops within the Central Bank of Ireland where they have helped elevate in-house visualisation standards and design literacy.\n\n\n\n\n\n\nEffective visualization = design + communication\n\nRedesigning a chart is about understanding audience perception and context, not just aesthetics\n\nTeaching others reinforces strong habits of clarity, simplicity, and storytelling in every visualisation\n\n\n\n\n\nThis section of my portfolio reflects not only my ability to create impactful visuals, but also to teach and empower others to do the same — helping teams communicate data more clearly, confidently, and creatively."
+  },
+  {
+    "objectID": "redesign.html#example3-redesign",
+    "href": "redesign.html#example3-redesign",
+    "title": "Data Visualisation Redesign",
+    "section": "",
+    "text": "This re-design was featured in the global data visualisation magazine Nightingale. You can read my featured article here\n\n\n\nThree separate charts describing HYROX Performance.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCombination of three separate charts into a clean, single graphic."
+  },
+  {
+    "objectID": "redesign.html#data-visualization-style-guide-creation",
+    "href": "redesign.html#data-visualization-style-guide-creation",
+    "title": "Data Visualisation Redesign",
+    "section": "",
+    "text": "In 2024, I created a Data Visualization Style Guide for the Central Bank of Ireland, developed in collaboration with the Communications department.\nThis guide formalised the institution’s approach to visual communication — ensuring that charts and dashboards across all departments followed a consistent, accessible, and design-informed standard.\n\nPurpose of the Guide:\n\nEstablish color palettes aligned with accessibility and brand identity\n\nPromote best practices for labeling, annotation, and storytelling\n\nStandardise visual output across RShiny and publication workflows\n\nThe guide has since been implemented to elevate visual standards and ensure chart consistency across the organisation.\n📄 View the Data Visualisation Style Guide (PDF)"
+  },
+  {
+    "objectID": "redesign.html#teaching-workshops",
+    "href": "redesign.html#teaching-workshops",
+    "title": "Data Visualisation Redesign",
+    "section": "",
+    "text": "Alongside my redesign projects, I have designed and delivered numerous data visualisation workshops, ranging from 1-hour sessions to 3-hour deep dives, catering to both technical and non-technical audiences.\n\n\n\nThese sessions focus on developing hands-on skills using ggplot2 and the grammar of graphics framework.\nParticipants learn to:\n\nBuild visuals layer by layer using R and ggplot2\n\nCustomise color, theme, and layout for professional-quality outputs\n\nApply design principles directly within R scripts\n\nUse reproducible workflows to standardize internal reporting visuals\n\nExample sessions include:\n\n“From Data to Design: An Introduction to ggplot2”\n\n\n\n\n\nThese sessions focus on conceptual understanding and visual storytelling.\nTopics include:\n\nThe do’s and dont’s in data visualisation\nResearch-based appraoches that lead to greater chart engagement\nApplying best practices to enable charts of greater clarity\n\nExample sessions include:\n\n“Design Thinking for Analysts”\n\nI have delivered these workshops within the Central Bank of Ireland where they have helped elevate in-house visualisation standards and design literacy."
+  },
+  {
+    "objectID": "redesign.html#key-takeaways",
+    "href": "redesign.html#key-takeaways",
+    "title": "Data Visualisation Redesign",
+    "section": "",
+    "text": "Effective visualization = design + communication\n\nRedesigning a chart is about understanding audience perception and context, not just aesthetics\n\nTeaching others reinforces strong habits of clarity, simplicity, and storytelling in every visualisation"
+  },
+  {
+    "objectID": "redesign.html#summary",
+    "href": "redesign.html#summary",
+    "title": "Data Visualisation Redesign",
+    "section": "",
+    "text": "This section of my portfolio reflects not only my ability to create impactful visuals, but also to teach and empower others to do the same — helping teams communicate data more clearly, confidently, and creatively."
+  },
+  {
+    "objectID": "dashboards.html",
+    "href": "dashboards.html",
+    "title": "Dashboards",
+    "section": "",
+    "text": "As I have worked for multiple years on confidental industry RShiny projects, I’ve displayed below some personal RShiny projects:"
+  },
+  {
+    "objectID": "dashboards.html#running-dashboard",
+    "href": "dashboards.html#running-dashboard",
+    "title": "Dashboards",
+    "section": "🏃 Running Dashboard",
+    "text": "🏃 Running Dashboard\nInteractive dashboard tracking heart zones and kilometer splits from running data. The outputted images can be downloaded locally.\n📊 The dashboard is deployed to shinyapps.io here\n🧑‍💻 The code used can be viewed from my Github"
+  },
+  {
+    "objectID": "dashboards.html#fpl-dashboard1",
+    "href": "dashboards.html#fpl-dashboard1",
+    "title": "Dashboards",
+    "section": "🥇 FPL Desktop Dashboard",
+    "text": "🥇 FPL Desktop Dashboard\nInteractive dashboard tracking player form, mini-league data, fixture difficulty and much more!\n📊 The dashboard is deployed to shinyapps.io here\n🧑‍💻 The code used can be viewed from my Github"
+  },
+  {
+    "objectID": "dashboards.html#fpl-dashboard2",
+    "href": "dashboards.html#fpl-dashboard2",
+    "title": "Dashboards",
+    "section": "⚙️ Mobile-Friendly FPL Dashboard",
+    "text": "⚙️ Mobile-Friendly FPL Dashboard\nA mobile friendly FPL Shiny App that help users on the go.\n📊 The dashboard is deployed to shinyapps.io here\n🧑‍💻 The code used can be viewed from my Github"
+  },
+  {
+    "objectID": "visualisations.html",
+    "href": "visualisations.html",
+    "title": "Data Visualisation Portfolio",
+    "section": "",
+    "text": "Explore my data visualisation portfolio, as I showcase ggplot2 skills in these diverse industries:\n\nSection 1: Finance Visuals\nSection 2: Fitness Visuals\nSection 3: Football Visuals\n\n\n\n\n\n\n\n\nSample Vertical Bar Chart\n\n\n\n\n\n\n\n\nSample Rank Chart\n\n\n\n\n\n\n\n\nSample Chart Combination\n\n\n \n\n\n\n\n\n\n\n\nThis image was featured in the global data visualisation magazine Nightingale. You can read my featured article here\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n👨‍💻 Code to generate your own HYROX, Cardio and Running Charts: https://github.com/andypetes94/fitnessPlotter\n \n\n\n\n\n\n\n\n\n\n\nSample Shot Map\n\n\n\n\n\n\n\n\n\n\n\nSample Scatter Plot\n\n\n\n\n\n\n\n\n\n\n\nSample Percentile Plot\n\n\n\n\n\n\n\n\n\n\n\nSample Data Table\n\n\n\n\n\n\n\n\n\n\n\nSample JitterChart\n\n\n\n\n\n\n\n\n\n\n\nSample Minutes Matrix\n\n\n\n\n\n\n\n\n\n\n\nSample Cumulative Points Plot\n\n\n\n\n\n\n\n\n\n\n\n\n\nSample Trend Graph"
+  },
+  {
+    "objectID": "visualisations.html#finance-visuals",
+    "href": "visualisations.html#finance-visuals",
+    "title": "Data Visualisation Portfolio",
+    "section": "",
+    "text": "Sample Vertical Bar Chart\n\n\n\n\n\n\n\n\nSample Rank Chart\n\n\n\n\n\n\n\n\nSample Chart Combination"
+  },
+  {
+    "objectID": "visualisations.html#hyrox-visuals",
+    "href": "visualisations.html#hyrox-visuals",
+    "title": "Data Visualisation Portfolio",
+    "section": "",
+    "text": "This image was featured in the global data visualisation magazine Nightingale. You can read my featured article here"
+  },
+  {
+    "objectID": "visualisations.html#rshiny-app",
+    "href": "visualisations.html#rshiny-app",
+    "title": "Data Visualisation Portfolio",
+    "section": "",
+    "text": "👨‍💻 Code to generate your own HYROX, Cardio and Running Charts: https://github.com/andypetes94/fitnessPlotter"
+  },
+  {
+    "objectID": "visualisations.html#football-visuals",
+    "href": "visualisations.html#football-visuals",
+    "title": "Data Visualisation Portfolio",
+    "section": "",
+    "text": "Sample Shot Map\n\n\n\n\n\n\n\n\n\n\n\nSample Scatter Plot\n\n\n\n\n\n\n\n\n\n\n\nSample Percentile Plot\n\n\n\n\n\n\n\n\n\n\n\nSample Data Table\n\n\n\n\n\n\n\n\n\n\n\nSample JitterChart\n\n\n\n\n\n\n\n\n\n\n\nSample Minutes Matrix\n\n\n\n\n\n\n\n\n\n\n\nSample Cumulative Points Plot\n\n\n\n\n\n\n\n\n\n\n\n\n\nSample Trend Graph"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "I’m Andrew Peters (PhD), a Data Scientist specialising in Data Visualisation, RShiny development and applied machine learning.\nMy work bridges sports analytics, finance, and pharmaceutical R&D — turning complex datasets into clear, actionable insights.\nHave a look through my Featured Projects below which encompass the following areas:"
+  },
+  {
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "Home",
+    "section": "Featured Projects",
+    "text": "Featured Projects\n\nData Visualisation Redesign\nA showcase of real-world chart redesigns — transforming cluttered visuals into clear stories. The project shares my structured approach to visualisation design and includes a sample Style Guide I helped produce to standardise best practices.\n\n\n\nFootball Analytics\nData-driven insights into tactical performance in elite football — integrating visualisation with data science techniques. This section contains my research published in peer-reviewed journals.\n\n\n\nData Visualisation Portfolio\nA visual exploration of data across three worlds — Finance, Fitness, and Football. Each section illustrates how clear, purposeful design can reveal the story behind the numbers — from exploring interest rates to performance analytics and fitness insights.\n\n\n\nRShiny Dashboard Development\nInteractive Fantasy Premier League analytics dashboards built in RShiny, focusing on player performance, mini-league data, fixture difficulty and more.."
   }
 ]

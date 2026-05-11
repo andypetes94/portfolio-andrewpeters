@@ -2,13 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.26">
+<meta name="generator" content="quarto-1.9.37">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>Football Analytics – Andrew Peters</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -33,19 +36,18 @@ ul.task-list li input[type="checkbox"] {
 <link href="./images/logo.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-b758ccaa5987ceb1b75504551e579abf.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-d0ae9245876894da5ac7e18953ecc5cc.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-f2e8ab496fa07a26c60bdf61ff7e1639.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-4c754e43d0f5771d6d4cfa2b4af40c7c.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-f2e8ab496fa07a26c60bdf61ff7e1639.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-5ac1a0e8702c1183c892a8b5ff4d5cdd.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-2ffaa11ae404128c1559dfdc2baec3c7.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-5ac1a0e8702c1183c892a8b5ff4d5cdd.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -314,10 +316,14 @@ ul.task-list li input[type="checkbox"] {
   <ul class="collapse">
   <li><a href="#counterpressing-id" id="toc-counterpressing-id" class="nav-link" data-scroll-target="#counterpressing-id">🔄 1. Counterpressing in Football</a></li>
   <li><a href="#xPT-id" id="toc-xPT-id" class="nav-link" data-scroll-target="#xPT-id">⚽️ 2. Modelling Passing in Football</a></li>
-  <li><a href="#defining-pressing-roles-in-football" id="toc-defining-pressing-roles-in-football" class="nav-link" data-scroll-target="#defining-pressing-roles-in-football">📊 3. Defining Pressing Roles in Football</a></li>
+  <li><a href="#pressing-roles-id" id="toc-pressing-roles-id" class="nav-link" data-scroll-target="#pressing-roles-id">📊 3. Defining Pressing Roles in Football</a></li>
   <li><a href="#conference-presentation" id="toc-conference-presentation" class="nav-link" data-scroll-target="#conference-presentation">🎤 Conference Presentation</a></li>
   <li><a href="#insights-and-broader-impact" id="toc-insights-and-broader-impact" class="nav-link" data-scroll-target="#insights-and-broader-impact">💡 Insights and Broader Impact</a></li>
   <li><a href="#related-football-analytics-work" id="toc-related-football-analytics-work" class="nav-link" data-scroll-target="#related-football-analytics-work">🔗 Related Football Analytics Work</a></li>
+  <li><a href="#other-publications" id="toc-other-publications" class="nav-link" data-scroll-target="#other-publications">🔬 Other Publications</a>
+  <ul class="collapse">
+  <li><a href="#inferring-somatic-mutations-from-rna-seq-data" id="toc-inferring-somatic-mutations-from-rna-seq-data" class="nav-link" data-scroll-target="#inferring-somatic-mutations-from-rna-seq-data">🧬 Inferring Somatic Mutations from RNA-Seq Data</a></li>
+  </ul></li>
   </ul></li>
   </ul>
 </nav>
@@ -353,7 +359,7 @@ ul.task-list li input[type="checkbox"] {
 
 <p>I was fortunate enough to work for Leicester City Football club for 3 years. (→ <a href="./about.html">Professional Experience</a>)</p>
 <p>During this time, I was involved in managing back-end and front-end operations for analytics initiatives across the <strong>Performance Analysis, Sports Science and Recruitment Departments</strong>. I delivered frequent <strong>RMarkdown</strong> &amp; PDF reports and deployed <strong>RShiny</strong> &amp; <strong>Tableau</strong> dashboards acorss all of these departments.</p>
-<p>In addition, I investigated the relationship between <em>Rest Defence</em> and Counterpressing (<a href="#counterpressing-id">1. Counterpressing in Football</a>), aswell as developed machine learning methods to analyse passing events (<a href="#xPT-id">2. Modelling Passing in Football</a>).</p>
+<p>In addition, I investigated the relationship between <em>Rest Defence</em> and Counterpressing (<a href="#counterpressing-id">1. Counterpressing in Football</a>); developed machine learning methods to analyse passing events (<a href="#xPT-id">2. Modelling Passing in Football</a>); used a semi-supervised machine learning method to characterise pressing roles in football (<a href="#pressing-roles-id">3. Defining Pressing Roles in Football</a>); applied pass models to demonstrate their applications within a professional football environment (<a href="#applications-id">4. Applying an Expected Pass Turnovers Model to Inform Pressing Strategies in Professional Football</a>)</p>
 <section id="publications-research" class="level1">
 <h1>📚 Publications &amp; Research</h1>
 <p>This project highlights my research work in <strong>football (soccer) analytics</strong>, combining machine learning, modelling and data storytelling to provide actionable insights for practitioner coaches and analysts.</p>
@@ -388,8 +394,8 @@ The aim of this study was to create a novel metric, <em>Expected Pass Turnovers<
 </figure>
 </div>
 </section>
-<section id="defining-pressing-roles-in-football" class="level3">
-<h3 class="anchored" data-anchor-id="defining-pressing-roles-in-football">📊 3. Defining Pressing Roles in Football</h3>
+<section id="pressing-roles-id" class="level3">
+<h3 class="anchored" data-anchor-id="pressing-roles-id">📊 3. Defining Pressing Roles in Football</h3>
 <p><em>International Journal of Computer Science in Sport (2025)</em></p>
 <p>A semi-supervised machine learning approach to identifying and comparing pressing roles beyond traditional positional labels.</p>
 <p><a href="https://doi.org/10.2478/ijcss-2025-0013">Read Paper →</a></p>
@@ -403,9 +409,21 @@ The aim of this study was to create a novel metric, <em>Expected Pass Turnovers<
 <li>Longitudinal analysis of how pressing roles evolve over time</li>
 </ul>
 <p>The framework has direct applications in performance analysis, tactical profiling, and player recruitment.</p>
+<p><img src="images/UMAP_Roles.png" class="img-fluid quarto-figure quarto-figure-center" style="width:100.0%"> ### 🧠 4. Applying an Expected Pass Turnovers Model to Inform Pressing Strategies in Professional Football {#applications-id} <em>International Journal of Performance Analysis in Sport (2026)</em></p>
+<p>Applying an Expected Pass Turnovers model to inform pressing strategies in professional football.</p>
+<p><a href="https://www.tandfonline.com/doi/full/10.1080/24748668.2026.2671547">Read Paper →</a></p>
+<p><a href="https://github.com/andypetes94/ExpectedPassTurnovers">Link To GitHub 🔗</a></p>
+<p><strong>Summary:</strong> This study extends the original Expected Pass Turnovers (xPT) framework by showing how it can be used not only to assess passing risk, but also to inform pressing strategy in professional football.</p>
+<p>The model identifies:</p>
+<ul>
+<li>Players and positions that may be suitable pressing targets,</li>
+<li>Spatial zones where teams are most vulnerable to turnover,</li>
+<li>Defensive players who force turnovers more effectively than expected through a complementary metric, Expected Pass Turnovers Forced (xPTF).</li>
+</ul>
+<p>A key contribution of the paper is that the full pipeline is fully reproducible, with code made openly available for practitioners, analysts, and researchers to adapt and apply in their own workflows.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="images/UMAP_Roles.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
+<p><img src="images/example_team_turnover_plot.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
 </figure>
 </div>
 </section>
@@ -435,17 +453,26 @@ The aim of this study was to create a novel metric, <em>Expected Pass Turnovers<
 <li><a href="./dashboards.html">Fantasy Premier League Dashboards →</a></li>
 </ul>
 <hr>
-<!-- ### 🧬 Inferring Somatic Mutations from RNA-Seq Data -->
-<!-- *Genetics (2023)*   -->
-<!-- Somatic mutations inferred from RNA-seq data highlight the contribution of replication timing to mutation rate variation in a model plant. -->
-<!-- [Read Paper →](https://academic.oup.com/genetics/article/225/2/iyad128/7224426?login=false) -->
-<!-- **Summary:**   -->
-<!-- Variation in the rates and characteristics of germline and somatic mutations across the genome of an organism is informative about DNA damage and repair processes and can also shed light on aspects of organism physiology and evolution.  -->
-<!-- The wide range of genomic data types available for A. thaliana enabled us to investigate the relationships of multiple genomic features with the variation in the somatic mutation rate across the genome of this model plant.  -->
-<!-- We observed that late replicated regions showed evidence of an elevated rate of somatic mutation compared to genomic regions that are replicated early. We identified transcriptional strand asymmetries, consistent with the effects of transcription-coupled damage and/or repair.  -->
-<!-- ![](images/genetics.jpg){width=60% fig-align="center"} -->
+</section>
+<section id="other-publications" class="level2">
+<h2 class="anchored" data-anchor-id="other-publications">🔬 Other Publications</h2>
+<section id="inferring-somatic-mutations-from-rna-seq-data" class="level3">
+<h3 class="anchored" data-anchor-id="inferring-somatic-mutations-from-rna-seq-data">🧬 Inferring Somatic Mutations from RNA-Seq Data</h3>
+<p><em>Genetics (2023)</em></p>
+<p>Somatic mutations inferred from RNA-seq data highlight the contribution of replication timing to mutation rate variation in a model plant.</p>
+<p><a href="https://academic.oup.com/genetics/article/225/2/iyad128/7224426?login=false">Read Paper →</a></p>
+<p><strong>Summary:</strong> Variation in the rates and characteristics of germline and somatic mutations across the genome of an organism is informative about DNA damage and repair processes and can also shed light on aspects of organism physiology and evolution.</p>
+<p>The wide range of genomic data types available for A. thaliana enabled us to investigate the relationships of multiple genomic features with the variation in the somatic mutation rate across the genome of this model plant.</p>
+<p>We observed that late replicated regions showed evidence of an elevated rate of somatic mutation compared to genomic regions that are replicated early. We identified transcriptional strand asymmetries, consistent with the effects of transcription-coupled damage and/or repair.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/genetics.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:60.0%"></p>
+</figure>
+</div>
+<hr>
 
 
+</section>
 </section>
 </section>
 
