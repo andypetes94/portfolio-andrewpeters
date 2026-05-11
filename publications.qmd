@@ -92,6 +92,8 @@ A key contribution of the paper is that the full pipeline is fully reproducible,
 
 ![](images/example_team_turnover_plot.png){width=100% fig-align="center"}
 
+![](images/Figure3.png){width=100% fig-align="center"}
+
 ## 🎤 Conference Presentation
 
 I presented **“A Machine Learning Approach to Identify Pressing Targets in Football”** at the **13th World Congress of Performance Analysis of Sport (2022)**.
