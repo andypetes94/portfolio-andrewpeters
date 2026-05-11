@@ -69,6 +69,7 @@ The approach enables:
 The framework has direct applications in performance analysis, tactical profiling, and player recruitment.
 
 ![](images/UMAP_Roles.png){width=100% fig-align="center"}
+
 ### 🧠 4. Applying an Expected Pass Turnovers Model to Inform Pressing Strategies in Professional Football {#applications-id}
 *International Journal of Performance Analysis in Sport (2026)*
 
@@ -103,10 +104,10 @@ This presentation showcased how applied data science methods can translate direc
 
 
 
-## 💡 Insights and Broader Impact
+<!-- ## 💡 Insights and Broader Impact -->
 
-- Data visualisation enables **coaches to interpret tactical models** quickly and intuitively.  
-- The combination of **spatial and event data** will always create models of greater accuracy. 
+<!-- - Data visualisation enables **coaches to interpret tactical models** quickly and intuitively.   -->
+<!-- - The combination of **spatial and event data** will always create models of greater accuracy.  -->
 
 ---
 
