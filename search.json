@@ -2,28 +2,28 @@
   {
     "objectID": "publications.html",
     "href": "publications.html",
-    "title": "Football Analytics",
+    "title": "Publications",
     "section": "",
     "text": "I was fortunate enough to work for Leicester City Football club for 3 years. (→ Professional Experience)\nDuring this time, I was involved in managing back-end and front-end operations for analytics initiatives across the Performance Analysis, Sports Science and Recruitment Departments. I delivered frequent RMarkdown & PDF reports and deployed RShiny & Tableau dashboards acorss all of these departments.\nIn addition, I investigated the relationship between Rest Defence and Counterpressing (1. Counterpressing in Football); developed machine learning methods to analyse passing events (2. Modelling Passing in Football); used a semi-supervised machine learning method to characterise pressing roles in football (3. Defining Pressing Roles in Football); applied pass models to demonstrate their applications within a professional football environment (4. Applying an Expected Pass Turnovers Model to Inform Pressing Strategies in Professional Football)"
   },
   {
     "objectID": "publications.html#conference-presentation",
     "href": "publications.html#conference-presentation",
-    "title": "Football Analytics",
+    "title": "Publications",
     "section": "🎤 Conference Presentation",
     "text": "🎤 Conference Presentation\nI presented “A Machine Learning Approach to Identify Pressing Targets in Football” at the 13th World Congress of Performance Analysis of Sport (2022).\nThe talk demonstrated how a machine learning appraoch, that leveraged positional data and visualisation techniques, can help identify pressing triggers and target patterns.\nThis presentation showcased how applied data science methods can translate directly into actionable insights for elite sports environments."
   },
   {
     "objectID": "publications.html#related-football-analytics-work",
     "href": "publications.html#related-football-analytics-work",
-    "title": "Football Analytics",
+    "title": "Publications",
     "section": "🔗 Related Football Analytics Work",
     "text": "🔗 Related Football Analytics Work\n\nFantasy Premier League Dashboards →"
   },
   {
     "objectID": "publications.html#other-publications",
     "href": "publications.html#other-publications",
-    "title": "Football Analytics",
+    "title": "Publications",
     "section": "🔬 Other Publications",
     "text": "🔬 Other Publications\n\n🧬 Inferring Somatic Mutations from RNA-Seq Data\nGenetics (2023)\nSomatic mutations inferred from RNA-seq data highlight the contribution of replication timing to mutation rate variation in a model plant.\nRead Paper →\nSummary: Variation in the rates and characteristics of germline and somatic mutations across the genome of an organism is informative about DNA damage and repair processes and can also shed light on aspects of organism physiology and evolution.\nThe wide range of genomic data types available for A. thaliana enabled us to investigate the relationships of multiple genomic features with the variation in the somatic mutation rate across the genome of this model plant.\nWe observed that late replicated regions showed evidence of an elevated rate of somatic mutation compared to genomic regions that are replicated early. We identified transcriptional strand asymmetries, consistent with the effects of transcription-coupled damage and/or repair."
   },
@@ -200,6 +200,6 @@
     "href": "index.html#featured-projects",
     "title": "Home",
     "section": "Featured Projects",
-    "text": "Featured Projects\n\nData Visualisation Redesign\nA showcase of real-world chart redesigns — transforming cluttered visuals into clear stories. The project shares my structured approach to visualisation design and includes a sample Style Guide I helped produce to standardise best practices.\n\n\n\nFootball Analytics\nData-driven insights into tactical performance in elite football — integrating visualisation with data science techniques. This section contains my research published in peer-reviewed journals.\n\n\n\nData Visualisation Portfolio\nA visual exploration of data across three worlds — Finance, Fitness, and Football. Each section illustrates how clear, purposeful design can reveal the story behind the numbers — from exploring interest rates to performance analytics and fitness insights.\n\n\n\nRShiny Dashboard Development\nInteractive Fantasy Premier League analytics dashboards built in RShiny, focusing on player performance, mini-league data, fixture difficulty and more.."
+    "text": "Featured Projects\n\nData Visualisation Redesign\nA showcase of real-world chart redesigns — transforming cluttered visuals into clear stories. The project shares my structured approach to visualisation design and includes a sample Style Guide I helped produce to standardise best practices.\n\n\n\nPublications\nMy work sits at the intersection of data science, machine learning, and football analytics. Through published research and applied work in elite football, I have developed models and visualisation tools that help coaches and analysts better understand tactical behaviour, pressing structures, and passing risk within professional performance environments. Alongside my work in sport, I have also contributed to bioinformatics and genetics research, applying statistical and computational methods to investigate somatic mutation patterns and genomic variation using large-scale sequencing data.\n\n\n\nData Visualisation Portfolio\nA visual exploration of data across three worlds — Finance, Fitness, and Football. Each section illustrates how clear, purposeful design can reveal the story behind the numbers — from exploring interest rates to performance analytics and fitness insights.\n\n\n\nRShiny Dashboard Development\nInteractive Fantasy Premier League analytics dashboards built in RShiny, focusing on player performance, mini-league data, fixture difficulty and more.."
   }
 ]
