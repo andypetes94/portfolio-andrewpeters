@@ -14,7 +14,7 @@ website:
       - href: redesign.qmd
         text: Data Visualisation Redesign
       - href: publications.qmd
-        text: Football Analytics
+        text: Publications
       - href: visualisations.qmd
         text: Data Visualisation Portfolio
       - href: dashboards.qmd

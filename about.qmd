@@ -102,10 +102,13 @@ Workshops have been run for staff at the **Central Bank of Ireland**, helping ra
 
 ## 📚 Selected Publications
 
-- **Counterpressing and Rest Defence in Football** (*Journal of Sports Analytics, 2025*)  
-- **Creation of a KPI to Evaluate Possession Retention** (*Journal of Sports Sciences, 2024*)  
+- **Expected Pass Turnovers (xPT) - a model to analyse turnovers from passing events in football** (*Journal of Sports Sciences, 2024*) [Read Paper →](https://www.tandfonline.com/doi/full/10.1080/02640414.2024.2379697)
+- **A rule-based approach to classify counterpressing – analysis of its risks and relationship with rest defence** (*International Journal of Performance Analysis in Sport, 2025*) [Read Paper →](https://www.tandfonline.com/doi/full/10.1080/24748668.2025.2473799)
+- **A Semi-Supervised Machine Learning Approach to Define Pressing Roles in Football** (*International Journal of Computer Science in Sport, 2025*) [Read Paper →](https://doi.org/10.2478/ijcss-2025-0013)
+- **Applying an Expected Pass Turnovers Model to Inform Pressing Strategies in Professional Football** (*International Journal of Performance Analysis in Sport, 2026*) [Read Paper →](https://www.tandfonline.com/doi/full/10.1080/24748668.2026.2671547)
+- **Somatic mutations inferred from RNA-seq data highlight the contribution of replication timing to mutation rate variation in a model plant** (*Genetics*) [Read Paper →](https://academic.oup.com/genetics/article/225/2/iyad128/7224426?login=false)
 
-View publications → [Football Analytics Project](publications.qmd)
+View publications → [Publications](publications.qmd)
 
 ---
 
