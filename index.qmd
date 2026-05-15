@@ -16,7 +16,7 @@ My work bridges **sports analytics, finance, and pharmaceutical R&D** — turnin
 Have a look through my **Featured Projects** below which encompass the following areas:
 
 * 📊 Data Visualisation Redesign
-* ⚽️ Football Analytics
+* 📚 Publications
 * 📈 Data Visualisation Portfolio
 * 👨‍💻 RShiny Dashboard Development
 
@@ -33,8 +33,8 @@ A showcase of real-world chart redesigns — transforming cluttered visuals into
 
 ![](images/after_1.png){.featured-img}
 
-### [Football Analytics](publications.qmd)
-Data-driven insights into tactical performance in elite football — integrating visualisation with data science techniques. This section contains my research published in peer-reviewed journals.
+### [Publications](publications.qmd)
+My work sits at the intersection of data science, machine learning, and football analytics. Through published research and applied work in elite football, I have developed models and visualisation tools that help coaches and analysts better understand tactical behaviour, pressing structures, and passing risk within professional performance environments. Alongside my work in sport, I have also contributed to bioinformatics and genetics research, applying statistical and computational methods to investigate somatic mutation patterns and genomic variation using large-scale sequencing data.
 
 ![](images/Rest_Defence.jpg){.featured-img}
 

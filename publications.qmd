@@ -1,5 +1,5 @@
 ---
-title: "Football Analytics"
+title: "Publications"
 categories: [Data Science, Machine Learning, Visualisation, Conference Speaking]
 ---
 
