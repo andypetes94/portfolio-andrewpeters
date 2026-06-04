@@ -7,11 +7,17 @@ I was fortunate enough to work for Leicester City Football club for 3 years. (�
 
 During this time, I was involved in managing back-end and front-end operations for analytics initiatives across the **Performance Analysis, Sports Science and Recruitment Departments**. I delivered frequent **RMarkdown** & PDF reports and deployed **RShiny** & **Tableau** dashboards acorss all of these departments.
 
-In addition, I investigated the relationship between *Rest Defence* and Counterpressing ([1. Counterpressing in Football](#counterpressing-id)); developed machine learning methods to analyse passing events ([2. Modelling Passing in Football](#xPT-id)); used a semi-supervised machine learning method to characterise pressing roles in football ([3. Defining Pressing Roles in Football](#pressing-roles-id)); applied pass models to demonstrate their applications within a professional football environment ([4. Applying an Expected Pass Turnovers Model to Inform Pressing Strategies in Professional Football](#applications-id))
+My publications within football analytics include:
+
+- Investigating the relationship between *Rest Defence* and Counterpressing ([1. Counterpressing in Football](#counterpressing-id))
+- Developing machine learning methods to analyse passing events ([2. Modelling Passing in Football](#xPT-id))
+- Using a semi-supervised machine learning method to characterise pressing roles in football ([3. Defining Pressing Roles in Football](#pressing-roles-id))
+- Applying pass models to demonstrate their applications within a professional football environment ([4. Applying an Expected Pass Turnovers Model to Inform Pressing Strategies in Professional Football](#applications-id))
+- Evaluating temporal leakage in machine learning models of football pass turnovers ([5. When Timing Matters: Evaluating Temporal Leakage in Machine Learning Models of Football Pass Turnovers](#temporal-leakage-id)).
 
 # 📚 Publications & Research
 
-This project highlights my research work in **football (soccer) analytics**, combining machine learning, modelling and data storytelling to provide actionable insights for practitioner coaches and analysts.
+This section highlights my research work in **football (soccer) analytics**, combining machine learning, modelling and data storytelling to provide actionable insights for practitioner coaches and analysts.
 
 Studies below have been **peer-reviewed and published** in leading sports science journals.
 
@@ -93,6 +99,32 @@ A key contribution of the paper is that the full pipeline is fully reproducible,
 ![](images/example_team_turnover_plot.png){width=100% fig-align="center"}
 
 ![](images/Figure3.png){width=100% fig-align="center"}
+
+
+### ⏱️ 5. When Timing Matters: Evaluating Temporal Leakage in Machine Learning Models of Football Pass Turnovers {#temporal-leakage-id}
+
+*Research Quarterly for Exercise and Sport (2026)*
+
+When Timing Matters: Evaluating Temporal Leakage in Machine Learning Models of Football Pass Turnovers.
+
+[Read Paper →](https://doi.org/10.1080/02701367.2026.2677718)
+
+[Link To GitHub 🔗](https://github.com/andypetes94/xTurnovers_Models)
+
+**Summary:**
+The research compares the original xPT model with leakage-corrected alternatives across multiple modelling approaches, including mixed-effects logistic regression, random forests, gradient boosting, and penalised logistic regression.
+
+Key findings include:
+
+- Post-pass variables substantially increased model performance but introduced temporal leakage.
+- Leakage-corrected models retained meaningful predictive power while relying only on information available before pass execution.
+- Pressing intensity, tactical context, and spatial positioning emerged as important predictors when leakage-prone features were removed.
+- The work distinguishes between retrospective models for post-match analysis and prospective models for real-time tactical decision-making.
+
+The study provides a fully reproducible machine learning pipeline and offers practical guidance for analysts seeking to deploy turnover prediction models in applied football environments.
+
+![](images/Calibration_Curves.png){width=100% fig-align="center"}
+
 
 ## 🎤 Conference Presentation
 
