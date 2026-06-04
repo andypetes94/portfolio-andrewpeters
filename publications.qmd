@@ -125,6 +125,13 @@ The study provides a fully reproducible machine learning pipeline and offers pra
 
 ![](images/Calibration_Curves.png){width=100% fig-align="center"}
 
+---
+
+### ⚽️ All Football Analytics Publications
+
+All football analytics publications can be found in [One PDF →]( https://drive.google.com/file/d/1WJbo_-SbJrkz3OStkOyD6Uvh1AE0cryg/view?usp=sharing)
+
+---
 
 ## 🎤 Conference Presentation
 
