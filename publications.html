@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.37">
+<meta name="generator" content="quarto-1.9.38">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -40,14 +40,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-d0ae9245876894da5ac7e18953ecc5cc.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-0a6b7249c26820e032cb0bd839ff02b1.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-8065d1af4f5ac02d4dce063c6a3f14dd.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-4f578f2e031513cb64ff0a6a3b71e981.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-8065d1af4f5ac02d4dce063c6a3f14dd.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-11049278da0c4281f7628ebcf34a9b29.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-3dd7068fbcd52ab4f82dbceb92f8c4dd.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-11049278da0c4281f7628ebcf34a9b29.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -318,6 +318,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#xPT-id" id="toc-xPT-id" class="nav-link" data-scroll-target="#xPT-id">⚽️ 2. Modelling Passing in Football</a></li>
   <li><a href="#pressing-roles-id" id="toc-pressing-roles-id" class="nav-link" data-scroll-target="#pressing-roles-id">📊 3. Defining Pressing Roles in Football</a></li>
   <li><a href="#applications-id" id="toc-applications-id" class="nav-link" data-scroll-target="#applications-id">🧠 4. Applying an Expected Pass Turnovers Model to Inform Pressing Strategies in Professional Football</a></li>
+  <li><a href="#temporal-leakage-id" id="toc-temporal-leakage-id" class="nav-link" data-scroll-target="#temporal-leakage-id">⏱️ 5. When Timing Matters: Evaluating Temporal Leakage in Machine Learning Models of Football Pass Turnovers</a></li>
   <li><a href="#conference-presentation" id="toc-conference-presentation" class="nav-link" data-scroll-target="#conference-presentation">🎤 Conference Presentation</a></li>
   <li><a href="#related-football-analytics-work" id="toc-related-football-analytics-work" class="nav-link" data-scroll-target="#related-football-analytics-work">🔗 Related Football Analytics Work</a></li>
   <li><a href="#other-publications" id="toc-other-publications" class="nav-link" data-scroll-target="#other-publications">🔬 Other Publications</a>
@@ -359,10 +360,17 @@ ul.task-list li input[type="checkbox"] {
 
 <p>I was fortunate enough to work for Leicester City Football club for 3 years. (→ <a href="./about.html">Professional Experience</a>)</p>
 <p>During this time, I was involved in managing back-end and front-end operations for analytics initiatives across the <strong>Performance Analysis, Sports Science and Recruitment Departments</strong>. I delivered frequent <strong>RMarkdown</strong> &amp; PDF reports and deployed <strong>RShiny</strong> &amp; <strong>Tableau</strong> dashboards acorss all of these departments.</p>
-<p>In addition, I investigated the relationship between <em>Rest Defence</em> and Counterpressing (<a href="#counterpressing-id">1. Counterpressing in Football</a>); developed machine learning methods to analyse passing events (<a href="#xPT-id">2. Modelling Passing in Football</a>); used a semi-supervised machine learning method to characterise pressing roles in football (<a href="#pressing-roles-id">3. Defining Pressing Roles in Football</a>); applied pass models to demonstrate their applications within a professional football environment (<a href="#applications-id">4. Applying an Expected Pass Turnovers Model to Inform Pressing Strategies in Professional Football</a>)</p>
+<p>My publications within football analytics include:</p>
+<ul>
+<li>Investigating the relationship between <em>Rest Defence</em> and Counterpressing (<a href="#counterpressing-id">1. Counterpressing in Football</a>)</li>
+<li>Developing machine learning methods to analyse passing events (<a href="#xPT-id">2. Modelling Passing in Football</a>)</li>
+<li>Using a semi-supervised machine learning method to characterise pressing roles in football (<a href="#pressing-roles-id">3. Defining Pressing Roles in Football</a>)</li>
+<li>Applying pass models to demonstrate their applications within a professional football environment (<a href="#applications-id">4. Applying an Expected Pass Turnovers Model to Inform Pressing Strategies in Professional Football</a>)</li>
+<li>Evaluating temporal leakage in machine learning models of football pass turnovers (<a href="#temporal-leakage-id">5. When Timing Matters: Evaluating Temporal Leakage in Machine Learning Models of Football Pass Turnovers</a>).</li>
+</ul>
 <section id="publications-research" class="level1">
 <h1>📚 Publications &amp; Research</h1>
-<p>This project highlights my research work in <strong>football (soccer) analytics</strong>, combining machine learning, modelling and data storytelling to provide actionable insights for practitioner coaches and analysts.</p>
+<p>This section highlights my research work in <strong>football (soccer) analytics</strong>, combining machine learning, modelling and data storytelling to provide actionable insights for practitioner coaches and analysts.</p>
 <p>Studies below have been <strong>peer-reviewed and published</strong> in leading sports science journals.</p>
 <hr>
 <section id="counterpressing-id" class="level3">
@@ -437,6 +445,27 @@ The aim of this study was to create a novel metric, <em>Expected Pass Turnovers<
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="images/Figure3.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
+</figure>
+</div>
+</section>
+<section id="temporal-leakage-id" class="level3">
+<h3 class="anchored" data-anchor-id="temporal-leakage-id">⏱️ 5. When Timing Matters: Evaluating Temporal Leakage in Machine Learning Models of Football Pass Turnovers</h3>
+<p><em>Research Quarterly for Exercise and Sport (2026)</em></p>
+<p>When Timing Matters: Evaluating Temporal Leakage in Machine Learning Models of Football Pass Turnovers.</p>
+<p><a href="https://doi.org/10.1080/02701367.2026.2677718">Read Paper →</a></p>
+<p><a href="https://github.com/andypetes94/xTurnovers_Models">Link To GitHub 🔗</a></p>
+<p><strong>Summary:</strong> The research compares the original xPT model with leakage-corrected alternatives across multiple modelling approaches, including mixed-effects logistic regression, random forests, gradient boosting, and penalised logistic regression.</p>
+<p>Key findings include:</p>
+<ul>
+<li>Post-pass variables substantially increased model performance but introduced temporal leakage.</li>
+<li>Leakage-corrected models retained meaningful predictive power while relying only on information available before pass execution.</li>
+<li>Pressing intensity, tactical context, and spatial positioning emerged as important predictors when leakage-prone features were removed.</li>
+<li>The work distinguishes between retrospective models for post-match analysis and prospective models for real-time tactical decision-making.</li>
+</ul>
+<p>The study provides a fully reproducible machine learning pipeline and offers practical guidance for analysts seeking to deploy turnover prediction models in applied football environments.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/Calibration_Curves.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%"></p>
 </figure>
 </div>
 </section>
