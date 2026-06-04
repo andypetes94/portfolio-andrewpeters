@@ -9,8 +9,8 @@ During this time, I was involved in managing back-end and front-end operations f
 
 My publications within football analytics include:
 
-- Investigating the relationship between *Rest Defence* and Counterpressing ([1. Counterpressing in Football](#counterpressing-id))
-- Developing machine learning methods to analyse passing events ([2. Modelling Passing in Football](#xPT-id))
+- Developing machine learning methods to analyse passing events ([1. Modelling Passing in Football](#xPT-id))
+- Investigating the relationship between *Rest Defence* and Counterpressing ([2. Counterpressing in Football](#counterpressing-id))
 - Using a semi-supervised machine learning method to characterise pressing roles in football ([3. Defining Pressing Roles in Football](#pressing-roles-id))
 - Applying pass models to demonstrate their applications within a professional football environment ([4. Applying an Expected Pass Turnovers Model to Inform Pressing Strategies in Professional Football](#applications-id))
 - Evaluating temporal leakage in machine learning models of football pass turnovers ([5. When Timing Matters: Evaluating Temporal Leakage in Machine Learning Models of Football Pass Turnovers](#temporal-leakage-id)).
@@ -23,23 +23,7 @@ Studies below have been **peer-reviewed and published** in leading sports scienc
 
 ---
 
-### 🔄 1. Counterpressing in Football {#counterpressing-id} 
-*International Journal of Performance Analysis in Sport (2025)*
-
-A rule-based approach to classify counterpressing – analysis of its risks and relationship with rest defence.
-
-[Read Paper →](https://www.tandfonline.com/doi/full/10.1080/24748668.2025.2473799)
-
-
-**Summary:**  
-Defensive Transition was be assessed by measuring counterpressure success against instances of shot and territory (counter-attack) concession. 
-
-The number of players occupying the *Rest Defence* zone was found to have a significant relationship with shot concession (p < 0.05) and territory concession (p < 0.001) following possession loss in the opposition’s final third. 
-
-
-![](images/Rest_Defence.jpg){width=60% fig-align="center"}
-
-### ⚽️ 2. Modelling Passing in Football {#xPT-id}
+### ⚽️ 1. Modelling Passing in Football {#xPT-id}
 *Journal of Sport Sciences (2024)*
 
 Expected Pass Turnovers (xPT) - a machine learning approach to analyse turnovers from passing events in football
@@ -54,6 +38,22 @@ The aim of this study was to create a novel metric, *Expected Pass Turnovers* (x
 A logistic mixed-effects model was implemented to attribute the probability of each pass getting turned over. The use of positional data enabled the identification of a) opposition players present in radii surrounding the ball carrier and b) availability of teammates with respect to the ball carrier. 
 
 ![](images/Passing_Turnovers.jpg){width=60% fig-align="center"}
+
+### 🔄 2. Counterpressing in Football {#counterpressing-id} 
+*International Journal of Performance Analysis in Sport (2025)*
+
+A rule-based approach to classify counterpressing – analysis of its risks and relationship with rest defence.
+
+[Read Paper →](https://www.tandfonline.com/doi/full/10.1080/24748668.2025.2473799)
+
+
+**Summary:**  
+Defensive Transition was be assessed by measuring counterpressure success against instances of shot and territory (counter-attack) concession. 
+
+The number of players occupying the *Rest Defence* zone was found to have a significant relationship with shot concession (p < 0.05) and territory concession (p < 0.001) following possession loss in the opposition’s final third. 
+
+
+![](images/Rest_Defence.jpg){width=60% fig-align="center"}
 
 ### 📊 3. Defining Pressing Roles in Football {#pressing-roles-id}
 *International Journal of Computer Science in Sport (2025)*
